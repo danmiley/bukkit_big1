@@ -1,0 +1,25 @@
+# BackPacks++ by CaptainBern! Thanks for downloading my plugin!
+# To add or change recipes please go to the "recipes" folder in plugins/BackPacks/recipes
+# Do NOT change the version
+version: 3.2
+
+# Should I notifie you when there is a new version?
+update-checker: true
+
+# Do you want to support the plugin by let it use metrics? (please don't disable this)
+metrics: true
+
+# Here you can define if the plugin logs several things like who registered a backpack at wich time
+# and who tried to open someone else's backpack...
+log: true
+
+# The plugins has multi-world support
+multiworld:
+    enabled: false           
+    worlds:                   
+      - world                 
+      - world_nether
+      - world_the_end
+      
+
+

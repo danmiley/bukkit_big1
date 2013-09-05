@@ -1,0 +1,20 @@
+easywarp:
+    description: Easy Warp permissions.
+    default: true
+    children:
+        easywarp.addwarp: true
+        easywarp.createsign: true
+        easywarp.signcreate: true
+        easywarp.sign.create: true
+        easywarp.sign.use: true
+        easywarp.usesign: true
+        easywarp.list: true
+        easywarp.warp.*: true
+        easywarp.command.*: true
+        easywarp.command.warp: true
+        easywarp.command.warpother: true
+        easywarp.command.setwarp: true
+        easywarp.command.listwarps: true
+        easywarp.command.delwarp: true
+        easywarp.command.reload: true
+essentials:

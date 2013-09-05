@@ -1,0 +1,54 @@
+geolocation: United States
+timestamps:
+  login: 1378091837115
+  lastteleport: 1378091930794
+  logout: 1378091929953
+  kits:
+    tools: 1377446548819
+    color: 1377658606829
+    firework: 1377446480534
+    dtools: 1377446561419
+    notch: 1377446507970
+ipAddress: 50.131.147.71
+lastlocation:
+  world: revengeofthelords
+  x: -477.72777738044414
+  y: 71.73941602216549
+  z: 410.6442238098106
+  yaw: 338.26746
+  pitch: 3.899997
+money: '10000000000000'
+logoutlocation:
+  world: revengeofthelords
+  x: -422.7595532201901
+  y: 66.0
+  z: 256.53804529523416
+  yaw: 81.7671
+  pitch: -8.8499775
+afk: false
+powertools:
+  '371':
+  - Lightning
+nickname: §d§lPiggles
+teleportenabled: true
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+godmode: false
+homes:
+  herobrine:
+    world: revengeofthelords
+    x: -264.4256010427616
+    y: 54.0
+    z: 889.5590334280492
+    yaw: -269.9046
+    pitch: 0.6000162
+  s:
+    world: revengeofthelords
+    x: -387.00301246711257
+    y: 86.0
+    z: 415.3737614848752
+    yaw: 102.742004
+    pitch: 5.400023

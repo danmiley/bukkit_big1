@@ -1,0 +1,29 @@
+geolocation: United States
+timestamps:
+  login: 1378157223941
+  logout: 1378157241414
+ipAddress: 50.156.100.24
+lastlocation:
+  world: revengeofthelords
+  x: -490.98375335958553
+  y: 63.90399990081772
+  z: 518.4322384999881
+  yaw: -2.8500001
+  pitch: 10.5
+logoutlocation:
+  world: revengeofthelords
+  x: -362.69999998807907
+  y: 66.0
+  z: 231.60415335608067
+  yaw: -8.231079
+  pitch: 59.100002
+mail:
+- 'Server: are all going to enter the game at 12:30pm today (monday)'''
+- 'Server: enchant command now works if you have  moderator status, as of wednesday'
+- 'Server: commands should work now'
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

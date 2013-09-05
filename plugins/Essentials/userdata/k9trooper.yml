@@ -1,0 +1,26 @@
+timestamps:
+  login: 1377434175494
+  lastteleport: 1377314026175
+  logout: 1377434387880
+  jail: 0
+ipAddress: 41.141.83.68
+geolocation: Morocco
+godmode: false
+lastlocation:
+  world: kingslanding
+  x: 3249.5
+  y: 141.0
+  z: 13408.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: kingslanding
+  x: 3254.2951120063663
+  y: 96.0
+  z: 13410.048117424734
+  yaw: 172.84116
+  pitch: -0.5457551
+jailed: false
+nickname: §l
+mail:
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'

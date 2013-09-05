@@ -1,0 +1,32 @@
+geolocation: United States
+timestamps:
+  login: 1377480299124
+  lastteleport: 1377478836226
+  logout: 1377481294091
+  kits:
+    firework: 1377478673529
+    notch: 1377457981111
+ipAddress: 24.130.210.4
+lastlocation:
+  world: revengeofthelords
+  x: -291.3745188411859
+  y: 72.4375
+  z: 421.8365811219719
+  yaw: -120.448746
+  pitch: 18.749968
+logoutlocation:
+  world: revengeofthelords
+  x: -292.3335859833299
+  y: 78.2349435039523
+  z: 421.7882299550726
+  yaw: 74.09888
+  pitch: -66.75001
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+afk: false
+godmode: true
+mail:
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'

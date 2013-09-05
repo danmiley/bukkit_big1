@@ -1,0 +1,21 @@
+geolocation: United States
+timestamps:
+  login: 1377540108439
+  logout: 1377540140768
+ipAddress: 71.55.131.144
+lastlocation:
+  world: revengeofthelords
+  x: -491.5
+  y: 65.0
+  z: 521.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: revengeofthelords
+  x: -475.51433066855265
+  y: 85.35568045980006
+  z: 511.6016705116156
+  yaw: 217.34541
+  pitch: 14.3879
+mail:
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'

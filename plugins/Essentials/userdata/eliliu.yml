@@ -1,0 +1,30 @@
+timestamps:
+  login: 1377981956801
+  logout: 1377982229823
+  lastteleport: 1377835711495
+  jail: 0
+ipAddress: 67.169.114.91
+lastlocation:
+  world: revengeofthelords
+  x: -409.6353101401171
+  y: 89.73935596545444
+  z: 250.8968055808698
+  yaw: -62.233276
+  pitch: 47.99998
+logoutlocation:
+  world: revengeofthelords
+  x: -368.5302903981538
+  y: 79.64444874015618
+  z: 204.01152225439057
+  yaw: 322.66772
+  pitch: 75.9
+money: '2951'
+afk: false
+nickname: §a§lSkillrex
+mail:
+- 'Server: are all going to enter the game at 12:30pm today (monday)'''
+- 'Server: enchant command now works if you have  moderator status, as of wednesday'
+- 'Server: commands should work now'
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+jailed: false
+geolocation: United States

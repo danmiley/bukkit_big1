@@ -1,0 +1,41 @@
+timestamps:
+  login: 1378005942724
+  lastteleport: 1377835872356
+  logout: 1378008264546
+  jail: 0
+ipAddress: 98.207.152.213
+lastlocation:
+  world: revengeofthelords
+  x: -426.77368341069734
+  y: 67.0155550727022
+  z: 538.9071827333954
+  yaw: 14.265747
+  pitch: 15.450005
+money: '90001046489'
+logoutlocation:
+  world: revengeofthelords
+  x: -438.1060743828088
+  y: 86.11102707553805
+  z: 636.9758721220622
+  yaw: -128.69812
+  pitch: 37.499954
+afk: false
+geolocation: United States
+nickname: §1§l§nKing_Nick
+jailed: false
+homes:
+  home:
+    world: CastleLividus
+    x: 178.45738798540916
+    y: 64.0
+    z: 202.0291336985063
+    yaw: -86.87216
+    pitch: 9.503522
+godmode: false
+mail:
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+ban:
+  reason: '§4Banned:
+
+    §rexcessive swearing'
+  timeout: 0

@@ -1,0 +1,26 @@
+timestamps:
+  login: 1378141810739
+  logout: 1378141847451
+  lastteleport: 1377787123261
+ipAddress: 76.102.92.233
+geolocation: United States
+lastlocation:
+  world: revengeofthelords
+  x: -180.03798877754411
+  y: 84.32651392568214
+  z: 848.030306572334
+  yaw: 277.7843
+  pitch: 10.650006
+logoutlocation:
+  world: revengeofthelords
+  x: -370.445228612811
+  y: 102.48935596545438
+  z: 367.2665813980336
+  yaw: 117.149475
+  pitch: 13.950005
+mail:
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+nickname: §7§lRoman
+powertools:
+  '369':
+  - spawnmob cow,pig

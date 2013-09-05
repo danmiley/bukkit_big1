@@ -1,0 +1,32 @@
+timestamps:
+  login: 1377480251960
+  logout: 1377481251591
+  lastteleport: 1377478792130
+  jail: 0
+ipAddress: 24.130.210.4
+geolocation: United States
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+logoutlocation:
+  world: revengeofthelords
+  x: -308.68054553121334
+  y: 76.47567933509755
+  z: 421.69999998807907
+  yaw: -95.69678
+  pitch: 65.99998
+lastlocation:
+  world: revengeofthelords
+  x: -289.93095336685604
+  y: 74.75934053517932
+  z: 428.4700055754252
+  yaw: -1.4987257
+  pitch: 83.24997
+godmode: false
+jailed: false
+nickname: asshole
+afk: false
+mail:
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'

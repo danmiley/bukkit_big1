@@ -1,0 +1,32 @@
+#Minecraft server properties
+#Thu Aug 29 05:45:31 UTC 2013
+generator-settings=
+allow-nether=true
+level-name=revengeofthelords
+enable-query=false
+allow-flight=true
+server-port=25565
+level-type=DEFAULT
+enable-rcon=false
+force-gamemode=true
+level-seed=1363181899730807241
+server-ip=
+max-build-height=256
+spawn-npcs=true
+white-list=false
+spawn-animals=false
+texture-pack=
+snooper-enabled=true
+hardcore=false
+online-mode=true
+pvp=true
+difficulty=0
+enable-command-block=false
+server-name=Survival World
+gamemode=1
+max-players=20
+spawn-monsters=false
+generate-structures=true
+view-distance=13
+spawn-protection=16
+motd=Survival World, Peaceful

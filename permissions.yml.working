@@ -1,0 +1,137 @@
+groups:
+    citizen:
+        default: true
+        build: true
+        prefix: '&3[Citizen]&f'
+        permissions:
+        - essentials.rules
+        - essentials.spawn
+        - essentials.help
+        - essentials.sethome
+        - essentials.home
+        - essentials.list
+        - essentials.tpa
+        - essentials.tpaccept
+        - essentials.tpdeny
+        - essentials.kit
+        - essentials.balance
+        - essentials.balancetop
+        - essentials.warp
+        - essentials.msg
+        - essentials.pay
+        - essentials.signs.use.disposal
+        - essentials.signs.use.free
+        - essentials.signs.use.heal
+        - essentials.signs.use.mail
+        - essentials.signs.use.time
+        - essentials.signs.use.buy
+        - essentials.signs.use.sell
+        - essentials.signs.use.balance
+        - essentials.signs.use.warp
+        - essentials.signs.use.weather
+        - essentials.signs.use.spawnmob
+        - ChestShop.shop.buy
+        - ChestShop.shop.sell
+        - announcer.receiver
+        - essentials.afk
+        - essentials.worth
+    trialmod:
+        default: false
+        build: true
+        inheritance:
+        - citizen
+        prefix: '&a[Trial-Mod]&f'
+        permissions:
+        - essentials.whois
+        - essentials.jails
+        - essentials.kick
+        - essentials.togglejail.offline
+        - essentials.mute
+        - coreprotect.rollback
+        - coreprotect.inspect
+        - essentials.invsee
+        - nocheatplus.admin.chatlog
+        - essentials.signs.break.disposal
+        - essentials.signs.break.heal
+        - essentials.signs.break.mail
+        - essentials.signs.break.warp
+        - essentials.signs.create.disposal
+        - essentials.signs.create.heal
+        - essentials.signs.create.mail
+        - essentials.signs.create.warp
+    moderater:
+        default: false
+        build: true
+        inheritance:
+        - trialmod
+        prefix: '&9[Moderater]&f'
+        permissions:
+        - essentials.nick
+        - essentials.msg.color
+        - essentials.chat.color
+        - essentials.chat.url
+        - essentials.ban
+        - essentials.ban.offline
+        - essentials.banip
+        - essentials.broadcast
+        - essentials.signs.break.enchant
+        - essentials.signs.break.free
+        - essentials.signs.break.gamemode
+        - essentials.signs.break.kit
+        - essentials.signs.break.time
+        - essentials.signs.break.weather
+        - essentials.signs.create.kit
+        - essentials.signs.create.spawnmob
+        - essentials.signs.create.time
+        - AdminChat.use
+        - nocheatplus.admin.chatlog
+        - dynamicban.ban.player-db
+        - dynamicban.ban.ip-dbip
+        - dynamicban.help-dh
+        - dynamicban.kick-dk
+        - dynamicban.player.details-dp
+        - dynamicban.player.standing-dst
+        - dynamicban.tempban.player -dtb
+        - dynamicban.tempban.ip -dtbip
+    admin:
+        default: false
+        build: true
+        inheritance:
+        - moderater
+        prefix: '&9[Admin]&f'
+        permissions:
+        - essentials.fly
+        - essentials.god
+        - essentials.gamemode
+        - essentials.heal
+        - essentials.item
+        - essentials.socialspy
+        - essentials.kill
+        - essentials.unban
+        - essentials.tp
+        - essentials.tphere
+        - essentials.unbanip
+    owner:
+        default: false
+        build: true
+        prefix: '&4[God]&f'
+        permissions:
+        - '*'
+
+#**************
+#****Break*****
+#****Users*****
+#**************
+users:
+  robotronx:
+    group:
+    - Citizen
+  amnonliu:
+    group:
+    - Citizen
+  eliliu:
+    group:
+    - Citizen
+  obmassey10:
+    group:
+    - Citizen

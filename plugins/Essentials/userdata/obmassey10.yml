@@ -1,0 +1,28 @@
+timestamps:
+  login: 1378006716517
+  logout: 1378008259546
+  lastteleport: 1378008211806
+ipAddress: 75.25.119.155
+geolocation: United States
+lastlocation:
+  world: revengeofthelords
+  x: -435.7060510163916
+  y: 73.41370771838308
+  z: 499.3366827348684
+  yaw: 237.1518
+  pitch: 52.350044
+money: '1175'
+logoutlocation:
+  world: revengeofthelords
+  x: -478.88461276768487
+  y: 89.3824990912825
+  z: 707.5767534453225
+  yaw: -191.99788
+  pitch: 42.899952
+mail:
+- 'robotronx: ''i will be online 10am saturday'''
+- 'Server: are all going to enter the game at 12:30pm today (monday)'''
+- 'Server: enchant command now works if you have  moderator status, as of wednesday'
+- 'Server: commands should work now'
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+nickname: Blue_Feather

@@ -1,0 +1,29 @@
+timestamps:
+  login: 1377974427022
+  logout: 1377973039430
+  jail: 0
+  lastteleport: 1377741940299
+ipAddress: 98.207.157.131
+geolocation: United States
+logoutlocation:
+  world: revengeofthelords
+  x: -443.4881582315858
+  y: 63.0
+  z: 502.67411071052175
+  yaw: 168.31673
+  pitch: 26.399836
+lastlocation:
+  world: revengeofthelords
+  x: -411.63328343954976
+  y: 81.78136885640734
+  z: 255.02087198155127
+  yaw: -252.88203
+  pitch: 32.4
+jailed: false
+afk: false
+godmode: true
+mail:
+- 'Server: enchant command now works if you have  moderator status, as of wednesday'
+- 'Server: commands should work now'
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+nickname: §4§lRec

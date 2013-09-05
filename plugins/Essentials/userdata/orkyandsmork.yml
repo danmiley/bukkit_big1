@@ -1,0 +1,23 @@
+timestamps:
+  login: 1376572081763
+  lastteleport: 1376572110965
+  logout: 1376572195638
+ipAddress: 75.187.217.45
+geolocation: United States
+lastlocation:
+  world: CastleLividus
+  x: 164.4679414986113
+  y: 64.0
+  z: 155.55516691345048
+  yaw: -203.40479
+  pitch: 66.65278
+logoutlocation:
+  world: CastleLividus
+  x: 176.02246672183733
+  y: 94.53134917530168
+  z: 114.1250836290352
+  yaw: -125.990326
+  pitch: 12.585588
+mail:
+- 'Server: commands should work now'
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'

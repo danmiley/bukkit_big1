@@ -1,0 +1,26 @@
+timestamps:
+  login: 1378245325996
+  logout: 1378245719122
+  lastteleport: 1377790773798
+ipAddress: 69.180.140.75
+geolocation: United States
+logoutlocation:
+  world: revengeofthelords
+  x: -323.76609953424844
+  y: 71.0
+  z: 428.4618233182664
+  yaw: -103.86719
+  pitch: 21.783537
+lastlocation:
+  world: revengeofthelords
+  x: -445.80811952310444
+  y: 76.34981154782155
+  z: 400.94540895968055
+  yaw: -320.34155
+  pitch: 22.344229
+afk: false
+mail:
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+- 'Server: right click the torch? that is supposed to work'
+- 'Server: right click the torch with no tools in hand. you are getting the ''projectiles
+  already loaded'' message from the plugin'

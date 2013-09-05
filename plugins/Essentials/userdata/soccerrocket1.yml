@@ -1,0 +1,34 @@
+timestamps:
+  login: 1377654211609
+  logout: 1377657209805
+  lastteleport: 1377657113072
+ipAddress: 24.10.26.70
+geolocation: United States
+lastlocation:
+  world: revengeofthelords
+  x: -455.36149664459936
+  y: 110.18476447638682
+  z: 554.5420961265321
+  yaw: 3.6081407
+  pitch: -3.7500393
+logoutlocation:
+  world: revengeofthelords
+  x: -482.0468371752172
+  y: 105.49806680586552
+  z: 572.7649981737306
+  yaw: -343.64236
+  pitch: -4.199995
+mail:
+- 'Server: ''we are all going to enter the game at 12:30pm today (monday)'''
+- 'Server: are all going to enter the game at 12:30pm today (monday)'''
+- 'Server: enchant command now works if you have  moderator status, as of wednesday'
+- 'Server: commands should work now'
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rBanned for inapproppriate language and harrassing other players, one week'
+  timeout: 0
+godmode: false
+nickname: buttface

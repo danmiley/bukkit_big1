@@ -1,0 +1,37 @@
+geolocation: United States
+timestamps:
+  login: 1377718780702
+  logout: 1377719022656
+  lastteleport: 1377718797333
+ipAddress: 98.161.62.129
+lastlocation:
+  world: revengeofthelords
+  x: -630.2942122465603
+  y: 63.0
+  z: 431.0332038241082
+  yaw: 68.70459
+  pitch: -14.550007
+logoutlocation:
+  world: revengeofthelords
+  x: -450.543701659398
+  y: 64.0
+  z: 365.9965267951722
+  yaw: 142.81636
+  pitch: 5.3999434
+money: '100'
+mail:
+- 'Server: are all going to enter the game at 12:30pm today (monday)'''
+- 'Server: enchant command now works if you have  moderator status, as of wednesday'
+- 'Server: commands should work now'
+- 'Server:  nicholas may be on at 530PM today'
+- 'Server:  try this command "/dt mount"     it will let you ride an enderdragon'
+- 'Server: then  try this command "/dt home"  the dragon should take you somewhere'
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+homes:
+  home:
+    world: CastleLividus
+    x: 117.76336242867339
+    y: 76.0
+    z: 146.5740111525371
+    yaw: 91.43072
+    pitch: 6.1728573

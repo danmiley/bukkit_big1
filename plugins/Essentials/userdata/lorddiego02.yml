@@ -1,0 +1,31 @@
+timestamps:
+  login: 1377813350597
+  lastteleport: 1377813366189
+  logout: 1377814114610
+ipAddress: 66.41.140.47
+geolocation: United States
+lastlocation:
+  world: revengeofthelords
+  x: -122.58445583877337
+  y: 38.0
+  z: 453.74971494107393
+  yaw: -224.8319
+  pitch: 38.99999
+logoutlocation:
+  world: revengeofthelords
+  x: -541.6999999880791
+  y: 64.0
+  z: -202.54459222736818
+  yaw: 101.71688
+  pitch: 5.9999676
+nickname: §4§lAwesomenss
+godmode: false
+afk: false
+homes:
+  home:
+    world: dreadfort
+    x: 4633.294346907197
+    y: 4.626361952253562
+    z: -7235.996195823336
+    yaw: -2.8591475
+    pitch: 34.649967

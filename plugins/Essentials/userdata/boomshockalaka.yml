@@ -1,0 +1,24 @@
+timestamps:
+  login: 1375026805632
+  logout: 1375029430493
+ipAddress: 76.21.119.30
+lastlocation:
+  world: Holodeck
+  x: -73.89119096051984
+  y: 74.0
+  z: 271.17641412918397
+  yaw: -284.85043
+  pitch: 19.800014
+afk: false
+logoutlocation:
+  world: Holodeck
+  x: -46.30000001192091
+  y: 97.50775031589228
+  z: 158.8089990179066
+  yaw: 331.57593
+  pitch: 89.25
+mail:
+- 'Server: are all going to enter the game at 12:30pm today (monday)'''
+- 'Server: enchant command now works if you have  moderator status, as of wednesday'
+- 'Server: commands should work now'
+- 'robotronx: 7pm, we will be on tonite (Monday August 26)'

@@ -1,0 +1,11 @@
+portals:
+  corkoak:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: robotronx
+    location: -498.0,65.0,481.0:-495.0,68.0,481.0
+    world: revengeofthelords
