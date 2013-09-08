@@ -43,6 +43,22 @@ groups:
       prefix: '&4'
       build: true
       suffix: ''
+  Operator:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
+  Co-Owner:
+    default: false
+    permissions: []
+    inheritance: []
+    info:
+      prefix: ''
+      build: false
+      suffix: ''
   Builder:
     default: false
     permissions:
@@ -91,12 +107,4 @@ groups:
     info:
       prefix: '&c'
       build: true
-      suffix: ''
-  Opperator:
-    default: false
-    permissions: []
-    inheritance: []
-    info:
-      prefix: ''
-      build: false
       suffix: ''

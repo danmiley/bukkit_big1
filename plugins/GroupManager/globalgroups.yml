@@ -1,5 +1,5 @@
 # These groups only contain permission nodes.
-#
+# 
 # **** You can NOT add anything other than permission nodes ****
 # **** This is NOT where you set up the groups which you give to users! ****
 # **** goto groupmanager/worlds/worldname/groups.yml if you want to set the actual groups! ****
@@ -23,11 +23,6 @@ groups:
   g:groupmanager_moderator:
     permissions:
     - groupmanager.listgroups
-    - groupmanager.mandemote
-    - groupmanager.manpromote
-    - groupmanager.manselect
-    - groupmanager.manuadd
-    - groupmanager.manudel
     - groupmanager.manwhois
     - groupmanager.notify.other
 
@@ -39,6 +34,11 @@ groups:
     - groupmanager.manglistp
     - groupmanager.manucheckp
     - groupmanager.manulistp
+    - groupmanager.mandemote
+    - groupmanager.manpromote
+    - groupmanager.manselect
+    - groupmanager.manuadd
+    - groupmanager.manudel
 
 # Permission nodes for CraftBukkit
 # by many devs and contributors
@@ -69,6 +69,8 @@ groups:
     - bukkit.command.list
     - bukkit.command.item
     - bukkit.command.toggledownfall
+    - bukkit.command.give
+
 
   g:bukkit_admin:
     permissions:
@@ -81,7 +83,6 @@ groups:
     - bukkit.command.kick
     - bukkit.broadcast
     - bukkit.broadcast.admin
-    - bukkit.command.give
     - bukkit.command.kill
     - bukkit.command.me
     - -bukkit.command.op
@@ -108,6 +109,9 @@ groups:
     - bukkit.command.whitelist.list
     - bukkit.command.whitelist.reload
     - bukkit.command.whitelist.remove
+    - multiverse.world.create
+    - multiverse.world.create.*
+    - multiverse.*
 
 # Permission nodes for Essentials
 # by ementalo, snowleo, and KHobbits
@@ -127,6 +131,8 @@ groups:
 
   g:essentials_builder:
     permissions:
+    - essentials.fly
+    - essentials.fly.*
     - essentials.afk
     - essentials.afk.auto
     - essentials.back
@@ -136,6 +142,7 @@ groups:
     - essentials.balancetop
     - essentials.book
     - essentials.chat.color
+    - essentials.chat.color.*
     - essentials.chat.format
     - essentials.chat.shout
     - essentials.chat.question
@@ -214,8 +221,10 @@ groups:
     - essentials.eco.loan
     - essentials.exp.others
     - essentials.ext
-    - essentials.fly
     - essentials.fly.safelogin
+    - essentials.speed
+    - essentials.speed.fly
+    - essentials.speed.walk
     - essentials.getpos
     - essentials.getpos.others
     - essentials.helpop.receive
@@ -353,6 +362,7 @@ groups:
     - morebows.*
     - essentials.spawn
     - sentry.*
+    - multiverse.access.* 
 
   g:essentials_admin:
     permissions:

@@ -47,6 +47,20 @@ groups:
       prefix: '&5'
       build: true
       suffix: ''
+  SuperAdmin:
+    default: false
+    permissions: []
+    inheritance:
+    - builder
+    - g:groupmanager_moderator
+    - g:bukkit_moderator
+    - g:essentials_moderator
+    - g:towny_moderator
+    - g:vanish_moderator
+    info:
+      prefix: '&5'
+      build: true
+      suffix: ''
   Admin:
     default: false
     permissions: []

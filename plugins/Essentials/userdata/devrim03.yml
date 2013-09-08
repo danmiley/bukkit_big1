@@ -1,0 +1,20 @@
+timestamps:
+  login: 1378660836585
+  lastteleport: 1378661213471
+  logout: 1378661219467
+ipAddress: 24.118.145.116
+geolocation: United States
+lastlocation:
+  world: revengeofthelords_the_end
+  x: 100.65192295277946
+  y: 49.0
+  z: 0.5205052129485769
+  yaw: 64.81704
+  pitch: -66.44998
+logoutlocation:
+  world: revengeofthelords
+  x: -393.03555520431667
+  y: 68.0
+  z: 264.4344183879275
+  yaw: -25.932901
+  pitch: 35.85003

@@ -1,0 +1,80 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# About Plugin/Author #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+# Nombre: PlotManager
+# Author: Goty
+# Bukkit Profile: http://dev.bukkit.org/profiles/Mayhem777/
+### Description: This plugin provides great control over WorldGuard regions for Plot Management. You can sell/buy, show owner information and last login (auto synchronizable), auto-delete the owner from the region if didn't log in a customizable time etc... all with colored signs and simple commands to relist the plots and change the price in real time without needing to destroy the sign and create a new one.
+### Plugin Version: 
+# Don't change this or your config will be renamed to "old_config.yml" and the correct config.yml version will be created.
+Version: 1.3.2
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# About Plugin/Author #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+
+#====================================== Language Settings ======================================#
+### Select the language file you wish, this plugin supports "spanish", "english" and "german" from default, feel free to edit or add the files you wish:
+# For more lang files check the plugin page for pastebin links, if you want to contribute feel free to PM me with the translation in pastebin :)
+Language: english
+
+#====================================== Notification Settings ======================================#
+### Notify players when someone purchases their plot?
+### Notify players when someone invites them to a plot?
+### Notify players when someone removes their invitation from a plot?
+Notifications:
+  Plot_Sold: true
+  Invited_To_Plot: true
+  Removed_From_Plot: true
+
+#====================================== Economy Settings ======================================#
+### Server Currency:
+Currency: 'Dollar/s'
+
+### Currency Symbol (For Signs):
+Currency_Symbol: '$'
+
+#====================================== Cleaner Settings ======================================#
+### You can clear (owners/members) plots if the owner didn't logged from a custom amount of days and also reset the sell sign to be available again for being purchased.
+# Noob-Safe Example: I'm player "Martin", i purchased a plot the 1th of January. I didn't logged the server till that day, then, the 31th i've reached 30 days of inactivity, so, i'll lose my Plots and will be available for purchase again, i'll lose any perm for that plot and my members (invited players) will be also removed.
+Cleaner:
+  Enable: false
+  Inactivity_Days: 30
+  Check_On_Start: true
+
+#====================================== Scheduler Settings ======================================#
+### Owner Signs should be synchronized every... (Hours)
+### You can also choose to update the Signs on every server start instead of waiting (both features can work together, update on start, and then at x hours)
+Owner_Signs:
+  Auto_Synchronization: 12
+  Synchronize_On_Start: true
+
+#====================================== Plot/Region Settings ======================================#
+### Erase old members of region on purchase (keeping old members can be DANGEROUS for the new owner, griefing etc... anyways this is optional).
+Erase_Old_Members: true
+
+### Max number of Plots/Regions for non restricted users (players without the "PlotManager.plots.x" permission):
+# Only Plots purchased by the plugin counts, if you want to bypass this use the worlguard commands to add owners, those regions will not count.
+Max_Plots: 10
+  
+#====================================== Sign Settings ======================================#
+### Remember! Each sign line only has 15 characters long, and the color means 2 used characters, so, you can fill up to 13 characters.
+### Also, most tags like "On Sale", "SOLD", "Owner", "Last Log" etc... can be customized in the LANGUAGE file, because some user names or prices can be too long, so modifying "Owner" to "O." (for example) will give you more characters for the sign line.
+
+### Header needed to detect the sign on placement(edit); this means, that you'll MUST write this on the top of the Plot Manager signs to detect them as Plot Manager Signs, i made this customizable because if you have 999+ Plots in your server, writing 999+ times [Plot Manager] it's REALLY annoying.
+# You can change it (for example) to [PM] to accelerate the plotting process :)
+Header: [Plot Manager]
+
+### How to setup a Sell Sign:
+# Line 1: [Plot Manager]	-> This line is a MUST.											->		- Region -			->	Static Label.
+# Line 2: Sell				-> This line will transform the sign to a sell sign				->		region name			->	This line will show the region name
+# Line 3: region name		-> 	This line must contain a VALID region name					-> 		On Sale				->	Will Show "On Sale" or "SOLD" depends if the region has already an owner
+# Line 4: 200				-> This line will show the price with the "Currency_Symbol"		->		200$				->	Price with "Currency_Symbol"
+
+### How to setup a Owner Sign:
+# Line 1: [Plot Manager]	-> This line is a MUST.											->		- Region -			->	Static Label.
+# Line 2: Owner				-> This line will transform the sign to an Owner Sign			->		region name			->	This line will show the region name
+# Line 3: region name		-> This line must contain a VALID region name					-> 		O: Goty				->	This line will show the CURRENT Owner
+# Line 4: ...				-> This line should be empty, doesn't matter, will be erased	->		Log: 12-12-12		->	Will show the LAST LOGIN of the Owner
+
+### How to use the Sell Sign:
+# Now you know how to place it, if the region has no owner will set to "Vacant!" automatically, if the region has owner, will be set to "SOLD!".
+# The Owner, an OP or a Player will the permission "PlotManager.sign.manager", can change the status of the sign from 1 to another with the command "/pm status" and left click to the sign.
+# To change the price, must be the owner etc (as before) but the command will be "/pm price <price>" to set a new price for the region.
+# To buy a region you just need to have the permission "PlotManager.user.buy" and left click the sign 2 times (for confirmation).

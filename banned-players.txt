@@ -1,7 +1,6 @@
-# Updated 9/4/13 4:03 PM by Minecraft 1.6.2
+# Updated 9/8/13 9:59 AM by Minecraft 1.6.2
 # victim name | ban date | banned by | banned until | reason
 
 snuffyandsleepy|2013-08-26 01:03:40 +0000|(Unknown)|Forever|Banned by operator, for excessive swearing
 snuffyguy|2013-08-26 01:03:40 +0000|(Unknown)|Forever|Banned by operator, for excessive swearing
 asfjerome|2013-08-26 01:02:11 +0000|(Unknown)|Forever|Banned by an operator. excessive swearing
-soccerrocket1|2013-08-28 10:46:50 +0000|(Unknown)|Forever|Banned by an operator.

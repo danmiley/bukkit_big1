@@ -1,0 +1,9 @@
+users:
+  mrpigman2:
+    group: Admin
+    subgroups: []
+    permissions: []
+  soccerrocket1:
+    group: Owner
+    subgroups: []
+    permissions: []
