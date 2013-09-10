@@ -1,0 +1,91 @@
+set:
+  war:
+    config:
+      buildinzonesonly: false
+      disablebuildmessage: false
+      disablepvpmessage: false
+      keepoldzoneversions: true
+      maxzones: 12
+      pvpinzonesonly: false
+      tntinzonesonly: false
+    info:
+      warzones: []
+      zonemakers:
+      - tommytony
+      commandwhitelist:
+      - who
+  warzone:
+    default:
+      config:
+        autoassign: false
+        blockheads: true
+        deathmessages: true
+        disabled: false
+        friendlyfire: false
+        glasswalls: true
+        instabreak: false
+        minteams: 1
+        minplayers: 1
+        monumentheal: 5
+        nocreatures: false
+        nodrops: false
+        pvpinzone: true
+        realdeaths: false
+        resetonempty: false
+        resetonconfigchange: false
+        resetonload: false
+        resetonunload: false
+        unbreakable: false
+        joinmidbattle: true
+  team:
+    default:
+      config:
+        flagmustbehome: true
+        flagpointsonly: false
+        flagreturn: both
+        lifepool: 7
+        maxscore: 10
+        nohunger: false
+        playerloadoutasdefault: false
+        respawntimer: 0
+        saturation: 10
+        spawnstyle: small
+        teamsize: 10
+        permission: war.player
+      loadout:
+        default:
+          slots:
+          - 0
+          - 1
+          - 2
+          - 3
+          - 4
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: STONE_SWORD
+            damage: 8
+          '1':
+            ==: org.bukkit.inventory.ItemStack
+            type: BOW
+            damage: 8
+          '2':
+            ==: org.bukkit.inventory.ItemStack
+            type: ARROW
+            amount: 7
+          '3':
+            ==: org.bukkit.inventory.ItemStack
+            type: IRON_PICKAXE
+            damage: 8
+          '4':
+            ==: org.bukkit.inventory.ItemStack
+            type: STONE_SPADE
+            damage: 8
+        names:
+        - default
+      reward:
+        default:
+          slots:
+          - 0
+          '0':
+            ==: org.bukkit.inventory.ItemStack
+            type: CAKE

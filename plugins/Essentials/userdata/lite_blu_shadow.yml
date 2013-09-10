@@ -1,0 +1,21 @@
+timestamps:
+  login: 1378777926794
+  logout: 1378781404029
+  lastteleport: 1378781234247
+ipAddress: 76.218.104.96
+geolocation: United States
+lastlocation:
+  world: revengeofthelords
+  x: -499.321835191387
+  y: 64.0
+  z: 517.0971512993398
+  yaw: -109.04999
+  pitch: -1.0499883
+logoutlocation:
+  world: deadwood
+  x: 153.70704699244206
+  y: 66.0
+  z: -199.6490391715682
+  yaw: -119.2536
+  pitch: 18.486435
+money: '1166'

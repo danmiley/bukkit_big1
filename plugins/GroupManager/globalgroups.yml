@@ -70,6 +70,7 @@ groups:
     - bukkit.command.item
     - bukkit.command.toggledownfall
     - bukkit.command.give
+    - bukkit.command.give.*
 
 
   g:bukkit_admin:
@@ -86,8 +87,8 @@ groups:
     - bukkit.command.kill
     - bukkit.command.me
     - -bukkit.command.op
-    - -bukkit.command.op.give
-    - -bukkit.command.op.take
+#    - -bukkit.command.op.give
+#    - -bukkit.command.op.take
     - bukkit.command.plugins
     - bukkit.command.reload
     - bukkit.command.save
@@ -281,6 +282,17 @@ groups:
     - enchanter.enchant.*
     - enchanter.dirty
     - enchanter.dirty.*
+    - lores.admin
+    - lores.admin.*
+    - lore.command.*
+    - auction.start.*
+    - auction.bid.*
+    - auction.admin.*
+    - auction.start
+    - auction.bid
+    - auction.admin
+    - floauction.admin.*
+    - floauction.admin
     - disguisecraft.mob.*
     - disguisecraft.object.*
     - disguisecraft.burning.*
@@ -289,8 +301,8 @@ groups:
     - animallock.unlock
     - animallock.lock.*
     - animallock.unlock.*
-    - -bukkit.command.op.give
-    - -bukkit.command.op.take
+#    - -bukkit.command.op.give
+#    - -bukkit.command.op.take
     - cannons.*
     - cannons.player.command
     - cannons.player.build
@@ -363,6 +375,8 @@ groups:
     - essentials.spawn
     - sentry.*
     - multiverse.access.* 
+    - essentials.give.*
+    - essentials.give
 
   g:essentials_admin:
     permissions:

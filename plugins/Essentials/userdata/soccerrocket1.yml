@@ -1,25 +1,25 @@
 timestamps:
-  login: 1378656911771
-  logout: 1378656961922
-  lastteleport: 1378654885941
+  login: 1378772902472
+  logout: 1378772996529
+  lastteleport: 1378772936122
   kits:
     tools: 1378430566567
 ipAddress: 24.10.26.70
 geolocation: United States
 lastlocation:
-  world: revengeofthelords
-  x: -401.4243528406446
-  y: 87.88096113919643
-  z: 196.46724883183398
-  yaw: -346.1835
-  pitch: 11.550112
+  world: deadwood
+  x: 109.61604997101887
+  y: 66.0
+  z: -200.76878579541497
+  yaw: -120.599915
+  pitch: 1.0499904
 logoutlocation:
   world: revengeofthelords
-  x: -391.589287345737
-  y: 89.84848228456843
-  z: 415.2320794078427
-  yaw: -8.082893
-  pitch: 45.300056
+  x: -430.5524156172067
+  y: 70.20000004768372
+  z: 255.61550676023919
+  yaw: 185.71716
+  pitch: 3.6000397
 mail:
 - 'Server: ''we are all going to enter the game at 12:30pm today (monday)'''
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''
@@ -28,9 +28,12 @@ mail:
 - 'robotronx: 7pm, we will be on tonite (Monday August 26)'
 - 'Server: you may be too far away from your internet connection'
 - 'Server: try to get closer to your wifi base station'
+- 'Server:  send please do not use man commands, (manuadd etc) becuase it messes up
+  the serverffiles, thanks'
 afk: false
 ban:
   reason: Temporarily banned from server for 1 second.
   timeout: 0
 godmode: false
-nickname: soccerrocket11
+nickname: §2§lsoc§a§lcer
+money: '9999999998.0'

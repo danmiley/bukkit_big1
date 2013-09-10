@@ -1,20 +1,10 @@
 users:
-  OliverPaloVerde:
-    group: Moderator
-    subgroups: []
-    permissions:
-    - groupmanager.noofflineperms
-  boomshockalaka:
-    group: Moderator
-    subgroups: []
-    permissions:
-    - groupmanager.noofflineperms
   blazeball137:
     group: Moderator
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
-  romancaufield:
+  boomshockalaka:
     group: Moderator
     subgroups: []
     permissions:
@@ -54,6 +44,11 @@ users:
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
+  OliverPaloVerde:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
   reckless40:
     group: Moderator
     subgroups: []
@@ -61,6 +56,11 @@ users:
     - groupmanager.noofflineperms
   robotronx:
     group: Admin
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  romancaufield:
+    group: Moderator
     subgroups: []
     permissions:
     - groupmanager.noofflineperms

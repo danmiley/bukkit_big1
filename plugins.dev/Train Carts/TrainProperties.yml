@@ -1,0 +1,17 @@
+train1:
+  collision:
+    misc: PUSH
+  carts: {}
+train3:
+  collision:
+    misc: PUSH
+  carts: {}
+train2:
+  collision:
+    misc: PUSH
+  carts: {}
+train4:
+  collision:
+    misc: PUSH
+  carts: {}
+

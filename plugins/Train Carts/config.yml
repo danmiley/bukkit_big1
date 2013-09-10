@@ -126,8 +126,8 @@ disabledWorlds:
 # Players with the admin block break permission can use any type
 # Others have to use one from this list
 allowedBlockBreakTypes:
-- CROPS
 - LOG
+- CROPS
 
 # Whether or not to show item animations when transferring items
 showTransferAnimations: true
@@ -144,7 +144,7 @@ statementShortcuts:
 itemShortcuts:
   fuel: ''
   heatable: ''
-  armor: iron_boots;iron_helmet;chainmail_leggings;gold_helmet;diamond_chestplate;leather_leggings;chainmail_chestplate;leather_boots;iron_chestplate;chainmail_helmet;iron_leggings;leather_chestplate;chainmail_boots;diamond_leggings;diamond_helmet;gold_leggings;gold_boots;gold_chestplate;leather_helmet;diamond_boots
+  armor: iron_chestplate;diamond_leggings;diamond_helmet;chainmail_boots;leather_leggings;gold_helmet;leather_chestplate;gold_chestplate;chainmail_helmet;leather_helmet;leather_boots;iron_boots;diamond_chestplate;gold_boots;iron_leggings;chainmail_chestplate;chainmail_leggings;diamond_boots;iron_helmet;gold_leggings
   sword: wood_sword;stone_sword;iron_sword;gold_sword;iron_sword;diamond_sword
   boots: leather_boots;iron_boots;gold_boots;diamond_boots;chainmail_boots
   leggins: leather_leggings;iron_leggings;gold_leggings;diamond_leggings;chainmail_leggings

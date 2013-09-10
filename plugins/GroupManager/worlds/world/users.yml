@@ -4,6 +4,11 @@ users:
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
+  boomshockalaka:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
   EliLiu:
     group: Moderator
     subgroups: []
@@ -14,17 +19,36 @@ users:
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
+  joelrocks122:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  k9trooper:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
   kaijay77:
     group: Moderator
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
+  lite_blu_shadow:
+    group: Admin
+    subgroups: []
+    permissions: []
   mrpigman2:
-    group: SuperAdmin
+    group: Moderator
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
   obmassey10:
+    group: Admin
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  OliverPaloVerde:
     group: Moderator
     subgroups: []
     permissions:
@@ -35,12 +59,17 @@ users:
     permissions:
     - groupmanager.noofflineperms
   robotronx:
+    group: Admin
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  romancaufield:
     group: Moderator
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
   soccerrocket1:
-    group: Moderator
+    group: Owner
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
