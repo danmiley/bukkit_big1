@@ -383,6 +383,8 @@ groups:
     - multiverse.access.* 
     - essentials.give.*
     - essentials.give
+    - lokitorches.*
+    - biab.*
 
   g:essentials_admin:
     permissions:

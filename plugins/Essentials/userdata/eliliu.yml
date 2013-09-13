@@ -1,6 +1,6 @@
 timestamps:
   login: 1379040676734
-  logout: 1379037156807
+  logout: 1379044689392
   lastteleport: 1379041434566
   jail: 0
 ipAddress: 76.21.113.54
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 61.200024
 logoutlocation:
   world: revengeofthelords
-  x: -409.4615339115783
-  y: 67.0
-  z: 177.6989982682869
-  yaw: -51.283157
-  pitch: 15.30006
+  x: -337.8781014574826
+  y: 88.66555212721748
+  z: 143.1249462799824
+  yaw: 124.48486
+  pitch: 30.300016
 money: '2951'
 afk: false
 nickname: §a§lSkillrex

@@ -1,7 +1,24 @@
-Most Important!
-[1] Be respectful
-[2] Be ethical
-[3] Use common sense
+Lockette-
+Add a sign on a chest or above a door, then the first line of the sign is
+[private]
+
+If you do it right no one will be able to enter except you.
+
+More New Stuff: "Build in a Box"
+/biab give [player] <buildingPlan> - give a player a Build-in-a-Box of the specified building.
+/biab save <buildingPlan> - save the current WorldEdit clipboard as a new building plan.
+/biab list [<page>] - list available building plans.
+/biab delete <buildingPlan> - Delete a building schematic.
+/biab setdescription <buildingPlan> <description line 1> | <description line 2> ...
+/biab setdisplayname <buildingPlan> <Display Name>
+/biab permanent - enter the command then punch an enderchest to convert the building to a permanent stucture.
+
+New Stuff:
+
+LokiTorches:
+new unbreakable torches, powerful torches
+
+/npc create <Name> [Sentence he will say when talked to]
 
 Please take a look at our rules
 - Don't swear.
