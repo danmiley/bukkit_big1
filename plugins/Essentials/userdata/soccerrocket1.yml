@@ -1,25 +1,26 @@
 timestamps:
-  login: 1378772902472
-  logout: 1378772996529
-  lastteleport: 1378772936122
+  login: 1379038080892
+  logout: 1379038206807
+  lastteleport: 1379035670624
   kits:
     tools: 1378430566567
+    color: 1378858791035
 ipAddress: 24.10.26.70
 geolocation: United States
 lastlocation:
-  world: deadwood
-  x: 109.61604997101887
-  y: 66.0
-  z: -200.76878579541497
-  yaw: -120.599915
-  pitch: 1.0499904
+  world: revengeofthelords
+  x: -404.464020933899
+  y: 62.0
+  z: 274.0182287299967
+  yaw: -155.98155
+  pitch: 45.0
 logoutlocation:
   world: revengeofthelords
-  x: -430.5524156172067
-  y: 70.20000004768372
-  z: 255.61550676023919
-  yaw: 185.71716
-  pitch: 3.6000397
+  x: -421.39603330066376
+  y: 66.0
+  z: 257.9741694466329
+  yaw: 71.86862
+  pitch: 15.900015
 mail:
 - 'Server: ''we are all going to enter the game at 12:30pm today (monday)'''
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''
@@ -36,4 +37,4 @@ ban:
   timeout: 0
 godmode: false
 nickname: §2§lsoc§a§lcer
-money: '9999999998.0'
+money: '9999998998.0'

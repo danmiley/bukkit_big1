@@ -1,3 +1,4 @@
+&2&l&kiii&a&lWelcome [Player] &1&lTo &4&lFire &c&lPlanet&2&l&kiii
 &6Welcome to Fire Planet, {PLAYER}&6!
 &6Type &c/help&6 for a list of the core commands.
 &6Type &c/plugins&6 for a list of the Fire Planet world plugins ( there are a lot of them)

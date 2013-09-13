@@ -1,8 +1,8 @@
 geolocation: United States
 timestamps:
-  login: 1378770447680
-  lastteleport: 1378771381798
-  logout: 1378771744029
+  login: 1379030253299
+  lastteleport: 1379030262122
+  logout: 1379030341404
   kits:
     tools: 1377446548819
     color: 1378770989598
@@ -11,20 +11,20 @@ timestamps:
     notch: 1377446507970
 ipAddress: 50.131.147.71
 lastlocation:
-  world: deadwood
-  x: 162.86131000263128
-  y: 66.0
-  z: -199.49658465713162
-  yaw: 88.65019
-  pitch: 39.899994
+  world: revengeofthelords
+  x: 45.952453017224485
+  y: 89.24727993668466
+  z: 267.40599016484526
+  yaw: 100.36724
+  pitch: 16.500013
 money: '9990000000102.0'
 logoutlocation:
   world: revengeofthelords
-  x: -311.52509901505016
-  y: 64.0
-  z: 270.43478885138234
-  yaw: 5.8682556
-  pitch: 90.0
+  x: -421.50039723048235
+  y: 66.0
+  z: 256.49981132257244
+  yaw: 94.81708
+  pitch: 4.500017
 afk: false
 powertools:
   '371':

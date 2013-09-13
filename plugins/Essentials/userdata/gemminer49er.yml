@@ -1,24 +1,24 @@
 geolocation: United States
 timestamps:
-  login: 1378822068616
-  logout: 1378823966409
-  lastteleport: 1377718797333
-ipAddress: 67.158.32.88
+  login: 1379030318222
+  logout: 1379030721404
+  lastteleport: 1379030407524
+ipAddress: 204.28.243.238
 lastlocation:
-  world: Olympus
-  x: 38.65100140894622
-  y: 97.0
-  z: -0.8598722951017619
-  yaw: -7.152588
-  pitch: 17.822079
+  world: revengeofthelords
+  x: -466.44093967599235
+  y: 45.54040519445258
+  z: 389.0006934460409
+  yaw: -124.096436
+  pitch: 8.294873
 logoutlocation:
   world: revengeofthelords
-  x: -391.5639074325007
-  y: 67.0
-  z: 316.65952722266843
-  yaw: -77.807495
-  pitch: 27.892073
-money: '100'
+  x: -401.147187239144
+  y: 66.0
+  z: 259.75057633251583
+  yaw: 14.328648
+  pitch: 22.826939
+money: '1100.0'
 mail:
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''
 - 'Server: enchant command now works if you have  moderator status, as of wednesday'
@@ -35,3 +35,5 @@ homes:
     z: 146.5740111525371
     yaw: 91.43072
     pitch: 6.1728573
+afk: false
+teleportenabled: false

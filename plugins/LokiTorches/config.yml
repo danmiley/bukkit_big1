@@ -1,0 +1,21 @@
+enable: true
+poor-torch:
+  drop-id: 280
+  rain-drop: true
+  drop-delay: 15
+strong-torch:
+  craft-id: 348
+  craft-amount: 4
+  torch-fall: true
+  water-drop: false
+  water-fix: true
+  name: §6Светофакел
+gyper-pumpkin:
+  enable: true
+  craft-id: 266
+  name: §bСверхтыква
+  fade-delay: 35
+worlds:
+- revengeofthelords
+- revengeofthelords_nether
+- revengeofthelords_the_end

@@ -1,0 +1,25 @@
+timestamps:
+  login: 1379026362804
+  logout: 1379027466403
+ipAddress: 74.88.189.59
+geolocation: United States
+lastlocation:
+  world: revengeofthelords
+  x: -491.0
+  y: 69.0
+  z: 517.0
+  yaw: 0.0
+  pitch: 0.0
+nickname: bella
+logoutlocation:
+  world: revengeofthelords
+  x: -427.45492177156916
+  y: 68.0
+  z: 256.7113339590385
+  yaw: 87.61678
+  pitch: 13.649997
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

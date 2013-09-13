@@ -1,27 +1,27 @@
 timestamps:
-  login: 1378820874914
-  logout: 1378821821409
-  lastteleport: 1378821787827
+  login: 1379029358304
+  logout: 1379028726403
+  lastteleport: 1379029715288
   jail: 0
-ipAddress: 67.158.32.88
+ipAddress: 204.28.243.238
 geolocation: United States
 lastlocation:
   world: revengeofthelords
-  x: -1330.5
-  y: 67.491776600064
-  z: 298.5
-  yaw: -229.34222
-  pitch: 65.24997
+  x: -456.58960862554545
+  y: 64.0
+  z: 487.1018603298267
+  yaw: -145.1354
+  pitch: 16.349995
 logoutlocation:
   world: revengeofthelords
-  x: -1333.5
-  y: 66.0
-  z: 298.5
-  yaw: -315.14197
-  pitch: 13.6499815
+  x: -434.3863279830115
+  y: 74.39439619895536
+  z: 492.74680027408186
+  yaw: -333.29977
+  pitch: 51.000042
 money: '110'
 jailed: false
-nickname: KAI
+nickname: §3§lKaijay77
 homes:
   home:
     world: revengeofthelords
@@ -40,4 +40,5 @@ homes:
 ban:
   reason: Temporarily banned from server for 59 seconds.
   timeout: 0
-afk: false
+afk: true
+teleportenabled: true

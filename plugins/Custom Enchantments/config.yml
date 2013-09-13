@@ -1,0 +1,157 @@
+# 
+# Color of /setname.
+color:
+  name: AQUA
+  lore: DARK_RED
+enchantmentTable: enabled
+enchantmentTableProbability: 5
+enchantments:
+  lore:
+    disableItalic: false
+    color: DARK_RED
+  requirePermissions: false
+  Blind:
+    enabled: true
+    enchantProbability: 15
+    strength: 10
+    duration: 2
+  BlindBow:
+    enabled: true
+    enchantProbability: 20
+  Block:
+    enabled: true
+    enchantProbability: 10
+    cooldown: 20
+    strength: 5
+    duration: 1
+  BombardmentBow:
+    enabled: true
+    enchantProbability: 20
+  Deathbringer:
+    enabled: true
+    enchantProbability: 10
+    damageAmplifier: 2
+  Enlighted:
+    enabled: true
+    enchantProbability: 20
+    Duration: 2
+    Strength: 3
+  FireworkBow:
+    enabled: true
+    enchantProbability: 20
+    Duration: 5
+    Delay: 1
+  Frozen:
+    enabled: true
+    enchantProbability: 20
+    Duration: 4
+    Strength: 5
+  Gooey:
+    enabled: true
+    enchantProbability: 10
+    heightMultiplier: 1.5
+    rightclick: false
+  Hardened:
+    enabled: true
+    enchantProbability: 20
+    Duration: 1
+    Strength: 5
+  Ice:
+    enabled: true
+    enchantProbability: 20
+    specialFreeze: true
+  LightningBow:
+    enabled: true
+    enchantProbability: 20
+    customLightning: false
+  Lifesteal:
+    enabled: true
+    enchantProbability: 15
+    heal: 1
+  Molten:
+    enabled: true
+    enchantProbability: 20
+    Duration: 2
+  Poison:
+    enabled: true
+    enchantProbability: 10
+    strength: 6
+    duration: 1
+  PoisonBow:
+    enabled: true
+    enchantProbability: 20
+    Duration: 8
+    Strength: 4
+  Poisoned:
+    enabled: true
+    enchantProbability: 20
+    Duration: 2
+    Strength: 5
+  Shockwave:
+    enabled: true
+    enchantProbability: 20
+    cooldown: 5
+items:
+  Assassin:
+    enabled: true
+    Length(Attack): 1
+    Cooldown(Attack): 3
+    Length(Use): 3
+    Cooldown(Use): 10
+    WeaknessLength: 10
+  Bandage:
+    enabled: true
+    Cooldown(Self): 60
+    Cooldown(Others): 30
+  BeastmastersBow:
+    enabled: true
+    toSpawn: ZOMBIE
+    mobAmount: 3
+  Deathscythe:
+    enabled: true
+    cooldown: 10
+    range: 10
+    debuffDuration: 3
+    debuffStrength: 1
+  Flamethrower:
+    enabled: true
+    isReloadable: true
+    fireDuration: 3
+  HermesBoots:
+    enabled: true
+    speedStrength: 2
+  HookshotBow:
+    enabled: true
+  Landmine:
+    enabled: true
+    disarmCooldown: 20
+  LivefireBoots:
+    enabled: true
+    flameDuration: 2
+  Medikit:
+    enabled: true
+    cooldown: 60
+  Minigun:
+    enabled: true
+    shotsFired: 20
+  NecromancerStaff:
+    enabled: true
+    Cost(Wither): 10
+    Cooldown(Wither): 2
+    Cost(Fireball): 4
+    Cooldown(Fireball): 1
+    Cost(Lightning): 20
+    Cooldown(Lightning): 2
+  Powergloves:
+    enabled: true
+    Cooldown: 5
+    MaxGrabtime: 3
+  PyroAxe:
+    enabled: true
+    damageMultiplier: 3
+  RocketBoots:
+    enabled: true
+  ThorsAxe:
+    enabled: true
+    Cooldown: 10
+    fireDuration: 5

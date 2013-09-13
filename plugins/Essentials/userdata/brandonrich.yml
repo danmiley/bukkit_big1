@@ -1,0 +1,24 @@
+geolocation: United States
+timestamps:
+  login: 1379029727253
+  logout: 1379029743904
+ipAddress: 68.174.151.77
+lastlocation:
+  world: revengeofthelords
+  x: -491.0
+  y: 69.0
+  z: 517.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: revengeofthelords
+  x: -427.0182034643021
+  y: 73.0
+  z: 258.15933678107655
+  yaw: -293.69846
+  pitch: 20.752686
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

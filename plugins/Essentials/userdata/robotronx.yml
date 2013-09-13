@@ -1,25 +1,25 @@
 timestamps:
-  login: 1378788816513
-  lastteleport: 1378781137646
-  logout: 1378781976530
+  login: 1378994126765
+  lastteleport: 1378868991636
+  logout: 1378994873196
   jail: 0
-ipAddress: 98.207.152.213
+ipAddress: 98.234.54.166
 lastlocation:
-  world: deadwood
-  x: 225.718169957208
-  y: 59.0
-  z: -197.30000001192093
-  yaw: -171.3565
-  pitch: 4.944285
+  world: revengeofthelords_the_end
+  x: 1.4892292403517273
+  y: 84.64160140345487
+  z: 39.80418115253178
+  yaw: -94.52698
+  pitch: 30.086739
 money: '90001046409'
 logoutlocation:
-  world: deadwood
-  x: 126.35893036613949
-  y: 85.3643559654545
-  z: -166.93056338373003
-  yaw: -148.36214
-  pitch: 21.578127
-afk: true
+  world: Olympus
+  x: 42.29282558146012
+  y: 97.0
+  z: 90.04145441914868
+  yaw: -1.799408
+  pitch: 2.8499908
+afk: false
 geolocation: United States
 nickname: §1§l§nKing_Nick
 jailed: false

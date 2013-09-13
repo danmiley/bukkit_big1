@@ -1,21 +1,21 @@
 timestamps:
-  login: 1378777926794
-  logout: 1378781404029
-  lastteleport: 1378781234247
+  login: 1378865238868
+  logout: 1378869017167
+  lastteleport: 1378867716144
 ipAddress: 76.218.104.96
 geolocation: United States
 lastlocation:
-  world: revengeofthelords
-  x: -499.321835191387
-  y: 64.0
-  z: 517.0971512993398
-  yaw: -109.04999
-  pitch: -1.0499883
+  world: Olympus
+  x: 90.438570784136
+  y: 132.3644073704127
+  z: 550.6384666598615
+  yaw: -157.8695
+  pitch: 27.14998
 logoutlocation:
-  world: deadwood
-  x: 153.70704699244206
+  world: revengeofthelords
+  x: -417.0656390339594
   y: 66.0
-  z: -199.6490391715682
-  yaw: -119.2536
-  pitch: 18.486435
+  z: 256.9830130940967
+  yaw: 34.500004
+  pitch: 1.5000204
 money: '1166'

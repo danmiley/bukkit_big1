@@ -103,13 +103,13 @@ groups:
     - bukkit.command.time.add
     - bukkit.command.time.set
     - bukkit.command.version
-    - bukkit.command.whitelist
-    - bukkit.command.whitelist.add
-    - bukkit.command.whitelist.disable
-    - bukkit.command.whitelist.enable
+    - -bukkit.command.whitelist
+    - -bukkit.command.whitelist.add
+    - -bukkit.command.whitelist.disable
+    - -bukkit.command.whitelist.enable
     - bukkit.command.whitelist.list
-    - bukkit.command.whitelist.reload
-    - bukkit.command.whitelist.remove
+    - -bukkit.command.whitelist.reload
+    - -bukkit.command.whitelist.remove
     - multiverse.world.create
     - multiverse.world.create.*
     - multiverse.*
@@ -342,6 +342,12 @@ groups:
     - essentials.gamemode.*
     - lockette.user.create.chest
     - lockette.user.create.door
+    - lockette.user.create.*
+    - -lockette.admin.create.*
+    - -lockette.admin.break
+    - -lockette.admin.bypass
+    - -lockette.admin.snoop
+    - -lockette.admin.reload
     - auction.start
     - auction.bid
     - auction.admin
