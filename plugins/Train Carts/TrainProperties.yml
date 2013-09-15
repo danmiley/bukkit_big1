@@ -10,13 +10,6 @@ train2:
   collision:
     misc: PUSH
   carts: {}
-train5:
-  collision:
-    misc: PUSH
-  carts:
-    cd6361df-03d2-4b94-baa6-1f308ca2cf0c:
-      owners:
-      - soccerrocket1
 train4:
   collision:
     misc: PUSH

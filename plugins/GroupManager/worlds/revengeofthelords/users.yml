@@ -4,6 +4,11 @@ users:
     subgroups: []
     permissions:
     - groupmanager.noofflineperms
+  AmnonLiu:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
   blazeball137:
     group: Moderator
     subgroups: []
@@ -55,7 +60,7 @@ users:
     permissions:
     - groupmanager.noofflineperms
   LordDiego02:
-    group: MegaMod
+    group: Moderator
     subgroups: []
     permissions:
     - groupmanager.noofflineperms

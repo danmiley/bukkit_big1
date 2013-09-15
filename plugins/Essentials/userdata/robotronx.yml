@@ -1,24 +1,24 @@
 timestamps:
-  login: 1378994126765
-  lastteleport: 1378868991636
-  logout: 1378994873196
+  login: 1379274367096
+  lastteleport: 1379262151284
+  logout: 1379277529978
   jail: 0
 ipAddress: 98.234.54.166
 lastlocation:
-  world: revengeofthelords_the_end
-  x: 1.4892292403517273
-  y: 84.64160140345487
-  z: 39.80418115253178
-  yaw: -94.52698
-  pitch: 30.086739
+  world: Herobrines
+  x: -270.3182045527472
+  y: -147.72066458658318
+  z: 257.3859566684212
+  yaw: -247.20044
+  pitch: 84.000015
 money: '90001046409'
 logoutlocation:
-  world: Olympus
-  x: 42.29282558146012
-  y: 97.0
-  z: 90.04145441914868
-  yaw: -1.799408
-  pitch: 2.8499908
+  world: revengeofthelords
+  x: 1404.718218273879
+  y: 146.0
+  z: 624.8133315362705
+  yaw: 44.733887
+  pitch: -1.0500139
 afk: false
 geolocation: United States
 nickname: §1§l§nKing_Nick

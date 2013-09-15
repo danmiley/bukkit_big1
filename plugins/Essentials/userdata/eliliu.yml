@@ -1,30 +1,25 @@
 timestamps:
-  login: 1379040676734
-  logout: 1379044689392
-  lastteleport: 1379041434566
+  login: 1379271126298
+  logout: 1379272391324
+  lastteleport: 1379271585993
   jail: 0
 ipAddress: 76.21.113.54
 lastlocation:
   world: revengeofthelords
-  x: 173.01917380296197
-  y: 135.12549839001971
-  z: -517.2561069375005
-  yaw: 165.01642
-  pitch: 61.200024
+  x: -173.06229223322464
+  y: 112.80620585787564
+  z: 186.11941540218004
+  yaw: 75.16342
+  pitch: 46.04997
 logoutlocation:
-  world: revengeofthelords
-  x: -337.8781014574826
-  y: 88.66555212721748
-  z: 143.1249462799824
-  yaw: 124.48486
-  pitch: 30.300016
+  world: Herobrines
+  x: -126.96190058626235
+  y: 104.10015185312416
+  z: 263.552184614102
+  yaw: 4.6488647
+  pitch: 30.299995
 money: '2951'
 afk: false
 nickname: §a§lSkillrex
-mail:
-- 'Server: are all going to enter the game at 12:30pm today (monday)'''
-- 'Server: enchant command now works if you have  moderator status, as of wednesday'
-- 'Server: commands should work now'
-- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
 jailed: false
 geolocation: United States

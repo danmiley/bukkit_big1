@@ -1,7 +1,7 @@
 timestamps:
-  login: 1379038080892
-  logout: 1379038206807
-  lastteleport: 1379035670624
+  login: 1379202199073
+  logout: 1379202227404
+  lastteleport: 1379174665942
   kits:
     tools: 1378430566567
     color: 1378858791035
@@ -9,18 +9,18 @@ ipAddress: 24.10.26.70
 geolocation: United States
 lastlocation:
   world: revengeofthelords
-  x: -404.464020933899
-  y: 62.0
-  z: 274.0182287299967
-  yaw: -155.98155
-  pitch: 45.0
+  x: -420.3916883448359
+  y: 68.0
+  z: 165.63560042571044
+  yaw: 262.0681
+  pitch: 21.299982
 logoutlocation:
   world: revengeofthelords
-  x: -421.39603330066376
-  y: 66.0
-  z: 257.9741694466329
-  yaw: 71.86862
-  pitch: 15.900015
+  x: -418.2432141106101
+  y: 64.5
+  z: 265.04587705805153
+  yaw: 342.91788
+  pitch: 2.2499678
 mail:
 - 'Server: ''we are all going to enter the game at 12:30pm today (monday)'''
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''

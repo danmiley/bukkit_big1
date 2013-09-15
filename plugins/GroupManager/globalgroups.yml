@@ -342,6 +342,7 @@ groups:
     - essentials.gamemode.*
     - lockette.user.create.chest
     - lockette.user.create.door
+    - lockette.user.create.all
     - lockette.user.create.*
     - -lockette.admin.create.*
     - -lockette.admin.break

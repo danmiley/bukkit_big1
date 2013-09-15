@@ -1,6 +1,6 @@
 timestamps:
-  login: 1378006716517
-  logout: 1378008259546
+  login: 1379131769577
+  logout: 1379131773956
   lastteleport: 1378008211806
 ipAddress: 75.25.119.155
 geolocation: United States
@@ -15,7 +15,7 @@ money: '1175'
 logoutlocation:
   world: revengeofthelords
   x: -478.88461276768487
-  y: 89.3824990912825
+  y: 89.05092980482925
   z: 707.5767534453225
   yaw: -191.99788
   pitch: 42.899952

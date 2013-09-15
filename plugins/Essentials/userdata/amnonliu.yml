@@ -1,14 +1,22 @@
 timestamps:
-  login: 1377458994758
-  logout: 1377459015472
+  login: 1379121989202
+  logout: 1379127205101
 ipAddress: 76.21.113.54
 geolocation: United States
 logoutlocation:
-  world: dreadfort
-  x: 4331.5
-  y: 97.0
-  z: -9089.5
-  yaw: 215.85005
-  pitch: 45.300007
+  world: revengeofthelords
+  x: -325.7807815205154
+  y: 71.0
+  z: 424.41486572891404
+  yaw: -164.56519
+  pitch: -2.1000144
 mail:
 - 'robotronx: 7pm, we will be on tonite (Monday August 26)'
+lastlocation:
+  world: revengeofthelords
+  x: -491.0
+  y: 69.0
+  z: 517.0
+  yaw: 0.0
+  pitch: 0.0
+afk: false
