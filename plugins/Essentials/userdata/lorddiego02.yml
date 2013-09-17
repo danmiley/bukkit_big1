@@ -1,24 +1,24 @@
 timestamps:
-  login: 1379257861530
-  lastteleport: 1379258525536
-  logout: 1379258803863
+  login: 1379335182494
+  lastteleport: 1379335047493
+  logout: 1379335328884
   mute: 0
 ipAddress: 66.41.140.47
 geolocation: United States
 lastlocation:
-  world: revengeofthelords
-  x: -379.2825313441233
-  y: 124.13834221353275
-  z: -50.588493865509406
-  yaw: -7.18042
-  pitch: 46.650005
+  world: revengeofthelords_nether
+  x: 3.645356075274848
+  y: 36.0
+  z: -69.09777536938978
+  yaw: 30.768463
+  pitch: -0.45001596
 logoutlocation:
   world: revengeofthelords
-  x: -414.2406548361331
-  y: 87.04391789363233
-  z: 195.7552295674166
-  yaw: -217.33179
-  pitch: 47.55
+  x: -356.961740125592
+  y: 66.0
+  z: 219.7837606318784
+  yaw: -152.38292
+  pitch: -6.75
 nickname: §4§lAwesomenss
 godmode: false
 afk: false
@@ -31,3 +31,4 @@ homes:
     yaw: -2.8591475
     pitch: 34.649967
 muted: false
+money: '1'

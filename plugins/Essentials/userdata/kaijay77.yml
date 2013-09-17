@@ -1,24 +1,24 @@
 timestamps:
-  login: 1379276078605
-  logout: 1379276097479
-  lastteleport: 1379082905870
+  login: 1379349667558
+  logout: 1379350321384
+  lastteleport: 1379349709150
   jail: 0
 ipAddress: 24.6.51.21
 geolocation: United States
 lastlocation:
   world: revengeofthelords
-  x: -417.387709281918
-  y: 75.13673063212785
-  z: 431.94206249073164
-  yaw: -201.88222
-  pitch: 88.65
+  x: -804.0246881569399
+  y: 108.1273175436459
+  z: 216.07711186033748
+  yaw: 82.778534
+  pitch: 23.999987
 logoutlocation:
   world: revengeofthelords
-  x: -798.3135912848901
-  y: 100.8643559654544
-  z: 186.0449427242086
-  yaw: -261.92145
-  pitch: 19.799995
+  x: -418.47224767508
+  y: 77.11436374880412
+  z: 319.5304141014029
+  yaw: 214.10031
+  pitch: 16.050007
 money: '110'
 jailed: false
 nickname: §3§lKaijay77

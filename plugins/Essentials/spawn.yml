@@ -1,11 +1,11 @@
 spawns: 
   default: 
-    world: revengeofthelords
-    x: -418.4974071078468
-    y: 66.0
-    z: 251.27232280439628
-    yaw: 1.5170898
-    pitch: -4.499977
+    world: Herobrines
+    x: -124.61299726429667
+    y: 54.0
+    z: 228.3472113027864
+    yaw: 100.650024
+    pitch: -6.9000306
   moderator: 
     world: revengeofthelords
     x: -418.5

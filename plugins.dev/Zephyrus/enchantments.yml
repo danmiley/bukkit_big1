@@ -1,0 +1,6 @@
+# Enchantments config. Allows for disabling of certain enchantments.
+
+InstaMine: true
+LifeSuck: true
+ToxicStrike: true
+BattleAxe: true

@@ -1,7 +1,7 @@
 timestamps:
-  login: 1379202199073
-  logout: 1379202227404
-  lastteleport: 1379174665942
+  login: 1379377664627
+  logout: 1379378272275
+  lastteleport: 1379377957291
   kits:
     tools: 1378430566567
     color: 1378858791035
@@ -9,18 +9,18 @@ ipAddress: 24.10.26.70
 geolocation: United States
 lastlocation:
   world: revengeofthelords
-  x: -420.3916883448359
-  y: 68.0
-  z: 165.63560042571044
-  yaw: 262.0681
-  pitch: 21.299982
+  x: -415.15575722408215
+  y: 66.0
+  z: 256.3835003006703
+  yaw: -102.132904
+  pitch: 3.9000256
 logoutlocation:
-  world: revengeofthelords
-  x: -418.2432141106101
-  y: 64.5
-  z: 265.04587705805153
-  yaw: 342.91788
-  pitch: 2.2499678
+  world: Herobrines
+  x: -80.1207652395059
+  y: 90.20563713059543
+  z: 256.81209485012386
+  yaw: 18.30133
+  pitch: 17.700014
 mail:
 - 'Server: ''we are all going to enter the game at 12:30pm today (monday)'''
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''
@@ -33,8 +33,9 @@ mail:
   the serverffiles, thanks'
 afk: false
 ban:
-  reason: Temporarily banned from server for 1 second.
+  reason: '§4Banned:
+
+    §r§4§lYou asked for it'
   timeout: 0
 godmode: false
-nickname: §2§lsoc§a§lcer
 money: '9999998998.0'

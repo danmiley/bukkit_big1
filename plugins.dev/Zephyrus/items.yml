@@ -1,0 +1,18 @@
+blink-pearl:
+  enabled: true
+  displayname: $1Blink Pearl
+gem-of-lightning:
+  enabled: true
+  displayname: $bGem of Lightning
+hoe-of-growth:
+  enabled: true
+  displayname: $aHoe of Growth
+rod-of-fire:
+  enabled: true
+  displayname: $cRod of Fire
+mana-potion:
+  enabled: true
+  displayname: $bMana Potion
+wand:
+  enabled: true
+  displayname: $6Wand

@@ -1,23 +1,23 @@
 geolocation: United States
 timestamps:
-  login: 1379084508301
-  logout: 1379085045101
+  login: 1379349655336
+  logout: 1379350161384
   lastteleport: 1379082319274
-ipAddress: 204.28.243.238
+ipAddress: 24.6.51.21
 lastlocation:
   world: revengeofthelords
-  x: -393.5
-  y: 71.0
-  z: 444.5
-  yaw: 64.96716
-  pitch: 85.79999
+  x: -420.41711410200753
+  y: 70.0
+  z: 319.70166155565084
+  yaw: 266.19244
+  pitch: 30.750366
 logoutlocation:
   world: revengeofthelords
-  x: -433.3969415420736
-  y: 70.36154156692938
-  z: 422.3856674826544
-  yaw: -183.00745
-  pitch: 76.25188
+  x: -417.55293954570527
+  y: 70.0
+  z: 317.238662226432
+  yaw: 125.6084
+  pitch: 25.344254
 money: '1100.0'
 mail:
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''

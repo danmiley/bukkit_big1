@@ -1,0 +1,40 @@
+####################################
+---Herobrine's Mansion by Hypixel---
+####################################
+
+
+allow-flight=true
+spawn-animals=false
+pvp=false
+enable-command-block=true
+view-distance=12
+spawn-npcs=true
+
+
+Recommended texturepack: http://gazamo.com/downloads/texturepack/
+Make sure you have Optifine: http://www.minecraftforum.net/topic/249637-142-optifine-hd-a7-fps-boost-hd-textures-aa-af-and-much-more/
+Do not use bukkit, use the vanilla server from www.minecraft.net until they fix the command blocks.
+
+Double check if allow-flight is true. 
+Otherwise the Herobrine fight will disconnect you from your server!
+
+Because of the map details and large amount of permanent entities, 
+the upload rate is very high so make sure your host or you have a good upload speed if playing multiplayer.
+
+
+**SINGLE PLAYER ?**
+I suggest playing on a server and use the recommended settings.
+If you still want to play without a server, make sure your game is not peaceful,
+if you accidently log in peaceful, re-install the map. Most of the monsters are 
+permanent and do not use spawners.
+
+
+Hypixel
+www.youtube.com/user/hypixel
+
+
+Fellow YouTubers!
+Credit my trailer in the description if possible :)
+
+
+

@@ -1,6 +1,6 @@
 timestamps:
-  login: 1379211985302
-  logout: 1379211987402
+  login: 1379288467687
+  logout: 1379288452811
 ipAddress: 98.234.54.166
 geolocation: United States
 logoutlocation:
@@ -8,8 +8,8 @@ logoutlocation:
   x: -423.42574747027805
   y: 66.0
   z: 253.16848659665243
-  yaw: 211.217
-  pitch: 24.750025
+  yaw: 269.71698
+  pitch: 13.800025
 mail:
 - 'robotronx: 7pm, we will be on tonite (Monday August 26)'
 lastlocation:

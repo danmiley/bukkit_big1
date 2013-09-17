@@ -1,29 +1,8 @@
 # Citizens NPC Storage
 
 
-last-created-npc-id: 193
+last-created-npc-id: 211
 npc:
-  '180':
-    name: soccerrocket1
-    traits:
-      spawned: true
-      controllable:
-        enabled: true
-      location:
-        world: revengeofthelords
-        x: '-432.51715712146006'
-        y: '73.0'
-        z: '254.50641900308557'
-        yaw: '-87.43283081054688'
-        pitch: '-7.2000041007995605'
-      owner: soccerrocket1
-    traitnames: controllable,owner,type,location,spawned
-    navigator:
-      pathfindingrange: '25.0'
-      stationaryticks: -1
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
   '181':
     name: romancaufiled
     traits:
@@ -36,7 +15,7 @@ npc:
         yaw: '-188.9830322265625'
         pitch: '-3.000006675720215'
       owner: soccerrocket1
-    traitnames: owner,type,location,spawned
+    traitnames: owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -57,7 +36,7 @@ npc:
         yaw: '267.4673767089844'
         pitch: '0.2999941110610962'
       owner: soccerrocket1
-    traitnames: controllable,owner,type,location,spawned
+    traitnames: controllable,owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -78,7 +57,7 @@ npc:
         yaw: '269.4173889160156'
         pitch: '15.299981117248535'
       owner: soccerrocket1
-    traitnames: controllable,owner,type,spawned,location
+    traitnames: controllable,owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -99,7 +78,7 @@ npc:
         yaw: '-83.83132934570312'
         pitch: '19.34995460510254'
       owner: soccerrocket1
-    traitnames: controllable,owner,type,location,spawned
+    traitnames: controllable,owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -114,13 +93,13 @@ npc:
         enabled: true
       location:
         world: revengeofthelords
-        x: '-432.2566758161301'
+        x: '-432.3953435711264'
         y: '70.0'
-        z: '263.4392324984125'
-        yaw: '269.6160888671875'
+        z: '263.19374137704295'
+        yaw: '-78.3147201538086'
         pitch: '6.60004186630249'
       owner: soccerrocket1
-    traitnames: controllable,owner,type,spawned,location
+    traitnames: controllable,owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -139,7 +118,7 @@ npc:
         yaw: '79.36772155761719'
         pitch: '-19.94988250732422'
       owner: soccerrocket1
-    traitnames: owner,type,spawned,location
+    traitnames: owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -158,7 +137,7 @@ npc:
         yaw: '7.5177001953125'
         pitch: '13.50009822845459'
       owner: soccerrocket1
-    traitnames: owner,type,spawned,location
+    traitnames: owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -179,28 +158,7 @@ npc:
         yaw: '-41.08294677734375'
         pitch: '26.250070571899414'
       owner: soccerrocket1
-    traitnames: controllable,owner,type,spawned,location
-    navigator:
-      pathfindingrange: '25.0'
-      stationaryticks: -1
-      speedmodifier: '1.0'
-      avoidwater: false
-      usedefaultstuckaction: true
-  '189':
-    name: snuffyguy
-    traits:
-      spawned: true
-      controllable:
-        enabled: true
-      location:
-        world: revengeofthelords
-        x: '-432.15554963820523'
-        y: '71.0'
-        z: '261.400317228143'
-        yaw: '264.76776123046875'
-        pitch: '23.700063705444336'
-      owner: soccerrocket1
-    traitnames: controllable,owner,type,spawned,location
+    traitnames: controllable,owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -219,7 +177,7 @@ npc:
         yaw: '41.41674041748047'
         pitch: '1.5000073909759521'
       owner: soccerrocket1
-    traitnames: owner,type,location,spawned
+    traitnames: owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -238,7 +196,7 @@ npc:
         yaw: '177.01690673828125'
         pitch: '29.550012588500977'
       owner: soccerrocket1
-    traitnames: owner,type,spawned,location
+    traitnames: owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -259,7 +217,7 @@ npc:
         yaw: '137.11671447753906'
         pitch: '-8.700002670288086'
       owner: soccerrocket1
-    traitnames: controllable,owner,type,spawned,location
+    traitnames: controllable,owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -280,7 +238,349 @@ npc:
         yaw: '-78.43316650390625'
         pitch: '0.9002410173416138'
       owner: soccerrocket1
-    traitnames: controllable,owner,type,spawned,location
+    traitnames: controllable,owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '194':
+    name: piemmpie
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-508.70030597371266'
+        y: '65.0'
+        z: '533.6931945508096'
+        yaw: '276.91845703125'
+        pitch: '-8.100005149841309'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '195':
+    name: Monman11
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-491.9041928575477'
+        y: '66.0'
+        z: '533.4078999799028'
+        yaw: '180.31787109375'
+        pitch: '9.450003623962402'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '196':
+    name: monman11
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-492.52441318463224'
+        y: '66.0'
+        z: '536.3570133617275'
+        yaw: '192.017822265625'
+        pitch: '9.000003814697266'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '197':
+    name: MasterGabeMOD
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-490.8106937645278'
+        y: '66.0'
+        z: '539.6999999880791'
+        yaw: '165.766845703125'
+        pitch: '10.94999885559082'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '198':
+    name: MeepLizard
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-487.90189033082765'
+        y: '66.0'
+        z: '538.4925292918213'
+        yaw: '234.316162109375'
+        pitch: '26.40000343322754'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '199':
+    name: AwesomeHalo47
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-485.98627363764984'
+        y: '66.0'
+        z: '541.8775483848949'
+        yaw: '74.566650390625'
+        pitch: '13.049997329711914'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '200':
+    name: awesomehalo47
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-489.22197310755064'
+        y: '66.0'
+        z: '544.6966437416461'
+        yaw: '232.516845703125'
+        pitch: '21.14999771118164'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '201':
+    name: Awesomehalo47
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-488.3038983660386'
+        y: '66.0'
+        z: '544.5998565256615'
+        yaw: '80.566650390625'
+        pitch: '13.349998474121094'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '202':
+    name: aboy103
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-434.7703205897758'
+        y: '63.0'
+        z: '516.1563280028815'
+        yaw: '265.366943359375'
+        pitch: '20.099998474121094'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '203':
+    name: Epic_Waffle_Lord
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-429.27779844082255'
+        y: '64.0'
+        z: '511.18029817737937'
+        yaw: '359.56591796875'
+        pitch: '21.450008392333984'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '204':
+    name: imadoffis
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-424.192670543615'
+        y: '64.0'
+        z: '514.545376188345'
+        yaw: '245.86669921875'
+        pitch: '18.000009536743164'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '205':
+    name: imadoofis
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-421.12910045241756'
+        y: '64.0'
+        z: '513.6765723596263'
+        yaw: '245.86669921875'
+        pitch: '18.000009536743164'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '206':
+    name: ChimneySwift
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-409.12143155355227'
+        y: '64.0'
+        z: '522.1548919384758'
+        yaw: '354.61474609375'
+        pitch: '13.9500093460083'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '207':
+    name: SethBling
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-411.6491539262442'
+        y: '64.0'
+        z: '524.9408702022097'
+        yaw: '228.7646484375'
+        pitch: '4.949992656707764'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '208':
+    name: SkythekidRS
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-409.9343776668113'
+        y: '64.0'
+        z: '533.2925499369862'
+        yaw: '346.9638671875'
+        pitch: '9.599993705749512'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '209':
+    name: Alieen_fjdkghjfk
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-405.47667448628624'
+        y: '64.0'
+        z: '535.6132529158165'
+        yaw: '304.21484375'
+        pitch: '16.04999542236328'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '210':
+    name: owlhunter987
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-408.30682520448624'
+        y: '64.0'
+        z: '560.8665608254968'
+        yaw: '190.06494140625'
+        pitch: '6.449996471405029'
+    traitnames: owner,location,type,spawned
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '211':
+    name: Aripuppy
+    traits:
+      owner: mrpigman2
+      spawned: true
+      location:
+        world: revengeofthelords
+        x: '-410.3998100329571'
+        y: '64.0'
+        z: '560.9221303314926'
+        yaw: '175.361328125'
+        pitch: '-0.3000001907348633'
+    traitnames: owner,location,type,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
