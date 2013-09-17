@@ -27,3 +27,8 @@ mail:
 - 'Server: commands should work now'
 - 'robotronx: 7pm, we will be on tonite (Monday August 26)'
 nickname: §4§lRec
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

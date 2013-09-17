@@ -15,7 +15,7 @@ npc:
         yaw: '-188.9830322265625'
         pitch: '-3.000006675720215'
       owner: soccerrocket1
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -36,7 +36,7 @@ npc:
         yaw: '267.4673767089844'
         pitch: '0.2999941110610962'
       owner: soccerrocket1
-    traitnames: controllable,owner,location,type,spawned
+    traitnames: location,spawned,owner,type,controllable
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -57,7 +57,7 @@ npc:
         yaw: '269.4173889160156'
         pitch: '15.299981117248535'
       owner: soccerrocket1
-    traitnames: controllable,owner,location,type,spawned
+    traitnames: location,spawned,owner,type,controllable
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -78,7 +78,7 @@ npc:
         yaw: '-83.83132934570312'
         pitch: '19.34995460510254'
       owner: soccerrocket1
-    traitnames: controllable,owner,location,type,spawned
+    traitnames: location,spawned,owner,type,controllable
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -99,7 +99,7 @@ npc:
         yaw: '-78.3147201538086'
         pitch: '6.60004186630249'
       owner: soccerrocket1
-    traitnames: controllable,owner,location,type,spawned
+    traitnames: location,spawned,owner,type,controllable
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -118,7 +118,7 @@ npc:
         yaw: '79.36772155761719'
         pitch: '-19.94988250732422'
       owner: soccerrocket1
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -137,7 +137,7 @@ npc:
         yaw: '7.5177001953125'
         pitch: '13.50009822845459'
       owner: soccerrocket1
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -158,7 +158,7 @@ npc:
         yaw: '-41.08294677734375'
         pitch: '26.250070571899414'
       owner: soccerrocket1
-    traitnames: controllable,owner,location,type,spawned
+    traitnames: location,spawned,owner,type,controllable
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -177,7 +177,7 @@ npc:
         yaw: '41.41674041748047'
         pitch: '1.5000073909759521'
       owner: soccerrocket1
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -196,7 +196,7 @@ npc:
         yaw: '177.01690673828125'
         pitch: '29.550012588500977'
       owner: soccerrocket1
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -217,7 +217,7 @@ npc:
         yaw: '137.11671447753906'
         pitch: '-8.700002670288086'
       owner: soccerrocket1
-    traitnames: controllable,owner,location,type,spawned
+    traitnames: location,spawned,owner,type,controllable
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -238,7 +238,7 @@ npc:
         yaw: '-78.43316650390625'
         pitch: '0.9002410173416138'
       owner: soccerrocket1
-    traitnames: controllable,owner,location,type,spawned
+    traitnames: location,spawned,owner,type,controllable
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -257,7 +257,7 @@ npc:
         z: '533.6931945508096'
         yaw: '276.91845703125'
         pitch: '-8.100005149841309'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -276,7 +276,7 @@ npc:
         z: '533.4078999799028'
         yaw: '180.31787109375'
         pitch: '9.450003623962402'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -295,7 +295,7 @@ npc:
         z: '536.3570133617275'
         yaw: '192.017822265625'
         pitch: '9.000003814697266'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -314,7 +314,7 @@ npc:
         z: '539.6999999880791'
         yaw: '165.766845703125'
         pitch: '10.94999885559082'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -333,7 +333,7 @@ npc:
         z: '538.4925292918213'
         yaw: '234.316162109375'
         pitch: '26.40000343322754'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -352,7 +352,7 @@ npc:
         z: '541.8775483848949'
         yaw: '74.566650390625'
         pitch: '13.049997329711914'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -371,7 +371,7 @@ npc:
         z: '544.6966437416461'
         yaw: '232.516845703125'
         pitch: '21.14999771118164'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -390,7 +390,7 @@ npc:
         z: '544.5998565256615'
         yaw: '80.566650390625'
         pitch: '13.349998474121094'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -409,7 +409,7 @@ npc:
         z: '516.1563280028815'
         yaw: '265.366943359375'
         pitch: '20.099998474121094'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -428,7 +428,7 @@ npc:
         z: '511.18029817737937'
         yaw: '359.56591796875'
         pitch: '21.450008392333984'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -447,7 +447,7 @@ npc:
         z: '514.545376188345'
         yaw: '245.86669921875'
         pitch: '18.000009536743164'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -466,7 +466,7 @@ npc:
         z: '513.6765723596263'
         yaw: '245.86669921875'
         pitch: '18.000009536743164'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -485,7 +485,7 @@ npc:
         z: '522.1548919384758'
         yaw: '354.61474609375'
         pitch: '13.9500093460083'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -504,7 +504,7 @@ npc:
         z: '524.9408702022097'
         yaw: '228.7646484375'
         pitch: '4.949992656707764'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -523,7 +523,7 @@ npc:
         z: '533.2925499369862'
         yaw: '346.9638671875'
         pitch: '9.599993705749512'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -542,7 +542,7 @@ npc:
         z: '535.6132529158165'
         yaw: '304.21484375'
         pitch: '16.04999542236328'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -561,7 +561,7 @@ npc:
         z: '560.8665608254968'
         yaw: '190.06494140625'
         pitch: '6.449996471405029'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -580,7 +580,7 @@ npc:
         z: '560.9221303314926'
         yaw: '175.361328125'
         pitch: '-0.3000001907348633'
-    traitnames: owner,location,type,spawned
+    traitnames: location,spawned,owner,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1

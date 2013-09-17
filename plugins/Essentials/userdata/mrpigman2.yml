@@ -1,30 +1,30 @@
 geolocation: United States
 timestamps:
-  login: 1379383310987
-  lastteleport: 1379285592992
-  logout: 1379383352275
+  login: 1379390018068
+  lastteleport: 1379390296913
+  logout: 1379390442689
   kits:
     tools: 1377446548819
     firework: 1378611312899
     color: 1379135912524
     dtools: 1377446561419
     notch: 1377446507970
-ipAddress: 24.6.51.21
+ipAddress: 50.131.147.71
 lastlocation:
-  world: revengeofthelords
-  x: -620.6158087263786
-  y: 68.0
-  z: 141.24916995347712
-  yaw: 0.9889295
-  pitch: 35.423595
+  world: CastleLividus
+  x: 200.29937101072105
+  y: 95.3643559654544
+  z: 196.32019226838673
+  yaw: 220.49994
+  pitch: 2.3999977
 money: '9990000000101.0'
 logoutlocation:
   world: revengeofthelords
-  x: -620.6158087263786
-  y: 68.0
-  z: 141.24916995347712
-  yaw: 0.9889295
-  pitch: 35.423595
+  x: -422.7971921809516
+  y: 59.0
+  z: 258.77093682849295
+  yaw: 15.317087
+  pitch: -16.049976
 afk: false
 powertools:
   '371':

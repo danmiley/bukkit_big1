@@ -210,6 +210,7 @@ groups:
     - -essentials.banip
     - -essentials.unban
     - -essentials.unbanip
+    - -bukkit.command.ban.player
     - -essentials.spawner.enderdragon
     - essentials.afk.kickexempt
     - essentials.book.title
@@ -382,6 +383,8 @@ groups:
     - essentials.spawn
     - sentry.*
     - multiverse.access.* 
+    - multiverse.teleport.* 
+    - multiverse.core.spawn.* 
     - essentials.give.*
     - essentials.give
     - lokitorches.*
@@ -396,6 +399,7 @@ groups:
     - essentials.tempban.offline
     - essentials.tempban.unlimited
     - essentials.ban
+    - bukkit.command.ban.player
     - essentials.ban.notify
     - essentials.banip
     - essentials.unban

@@ -1,9 +1,9 @@
 timestamps:
-  login: 1379377601525
+  login: 1379433863378
   lastteleport: 1379262151284
-  logout: 1379378139775
+  logout: 1379433912689
   jail: 0
-ipAddress: 64.129.229.106
+ipAddress: 98.234.54.166
 lastlocation:
   world: Herobrines
   x: -270.3182045527472
@@ -13,12 +13,12 @@ lastlocation:
   pitch: 84.000015
 money: '90001046409'
 logoutlocation:
-  world: Herobrines
-  x: -113.70011794396896
-  y: 59.02888270613189
-  z: 203.6268644743772
-  yaw: -2.1000009
-  pitch: 2.5499668
+  world: kingslanding
+  x: 3275.978357869056
+  y: 144.90929139529507
+  z: 13345.38234934908
+  yaw: -84.90029
+  pitch: 29.100004
 afk: false
 geolocation: United States
 nickname: §1§l§nKing_Nick
