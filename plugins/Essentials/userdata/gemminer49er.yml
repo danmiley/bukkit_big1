@@ -1,23 +1,23 @@
 geolocation: United States
 timestamps:
-  login: 1379349655336
-  logout: 1379350161384
-  lastteleport: 1379082319274
+  login: 1379822351337
+  logout: 1379822569038
+  lastteleport: 1379803821777
 ipAddress: 24.6.51.21
 lastlocation:
   world: revengeofthelords
-  x: -420.41711410200753
-  y: 70.0
-  z: 319.70166155565084
-  yaw: 266.19244
-  pitch: 30.750366
+  x: -423.330766725356
+  y: 84.9458556112678
+  z: 292.3825797599177
+  yaw: 96.75527
+  pitch: 31.049757
 logoutlocation:
   world: revengeofthelords
-  x: -417.55293954570527
-  y: 70.0
-  z: 317.238662226432
-  yaw: 125.6084
-  pitch: 25.344254
+  x: 107.49193260520866
+  y: 76.61404028547614
+  z: 2154.9793610640786
+  yaw: 116.27203
+  pitch: 55.108585
 money: '1100.0'
 mail:
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''
@@ -36,4 +36,5 @@ homes:
     yaw: 91.43072
     pitch: 6.1728573
 afk: false
-teleportenabled: false
+teleportenabled: true
+nickname: §6GEM

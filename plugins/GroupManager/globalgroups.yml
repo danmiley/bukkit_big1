@@ -279,6 +279,7 @@ groups:
     - essentials.enchant
     - essentials.enchant.*
     - essentials.enchantments.*
+    - essentials.lightning
     - enchanter.enchant
     - enchanter.enchant.*
     - enchanter.dirty
@@ -389,6 +390,14 @@ groups:
     - essentials.give
     - lokitorches.*
     - biab.*
+    - citizens.*
+    - citizens.npc.*
+    - citizens.use.*
+    - citizens.create.*
+    - citizens.modify.*
+    - citizens.npc.use.*
+    - citizens.npc.create.*
+    - citizens.npc.modify.*
 
   g:essentials_admin:
     permissions:
@@ -411,6 +420,7 @@ groups:
     - -essentials.plugin
     - essentials.*
     - essentials.spawn
+    - essentials.lightning.others
 
 # Permission nodes for Towny by ElgarL
 # http://dev.bukkit.org/server-mods/towny-advanced/

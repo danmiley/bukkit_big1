@@ -1,0 +1,9 @@
+||||||||||||||||||||
+&2&l&kiii&a&lWelcome {PLAYER} &1&lTo &4&lFire &c&lPlanet&2&l&kiii
+&2&l&kiii&a&lWelcome &1&lTo &4&lFire &c&lPlanet&2&l&kiii
+||||||||||||||||||||
+&6Want to be an OP?  Join us for OPpy Hour, every Friday and Saturday, 5PM-8PM.
+&6 To create a bodyguard, 2 steps: /npc create Herobrine --trait sentry
+&6 Then:  /sentry guard {PLAYERNAME}
+&6Currently online:&r {PLAYERLIST}
+

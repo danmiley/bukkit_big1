@@ -1,21 +1,21 @@
 timestamps:
-  login: 1379124970767
-  logout: 1379125227602
-  lastteleport: 1379125154321
+  login: 1379884536162
+  logout: 1379884572255
+  lastteleport: 1379882633604
 ipAddress: 76.218.104.96
 geolocation: United States
 lastlocation:
   world: revengeofthelords
-  x: -391.7665569666333
-  y: 63.0
-  z: 393.62239062315405
-  yaw: 78.13862
-  pitch: -7.8000293
+  x: -418.4946594921517
+  y: 66.0
+  z: 251.300000011921
+  yaw: 358.81717
+  pitch: 4.64996
 logoutlocation:
-  world: revengeofthelords
-  x: -433.2833482844567
-  y: 83.5787805357418
-  z: 408.0442960031753
-  yaw: -219.46141
-  pitch: 38.84998
+  world: kingslanding
+  x: 3251.851376105774
+  y: 149.16555212721738
+  z: 13348.405606567236
+  yaw: -76.35034
+  pitch: 22.199999
 money: '1166'

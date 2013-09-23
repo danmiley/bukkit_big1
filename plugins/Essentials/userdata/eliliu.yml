@@ -1,23 +1,23 @@
 timestamps:
-  login: 1379271126298
-  logout: 1379272391324
-  lastteleport: 1379271585993
+  login: 1379772332989
+  logout: 1379773997275
+  lastteleport: 1379772367096
   jail: 0
 ipAddress: 76.21.113.54
 lastlocation:
-  world: revengeofthelords
-  x: -173.06229223322464
-  y: 112.80620585787564
-  z: 186.11941540218004
-  yaw: 75.16342
-  pitch: 46.04997
+  world: battlezone
+  x: 903.0061215695173
+  y: 16.247282522126305
+  z: -859.850687440724
+  yaw: 101.66529
+  pitch: 43.049984
 logoutlocation:
-  world: Herobrines
-  x: -126.96190058626235
-  y: 104.10015185312416
-  z: 263.552184614102
-  yaw: 4.6488647
-  pitch: 30.299995
+  world: tunnelers
+  x: -10.121779874887153
+  y: 260.9038213436773
+  z: -12.311773669659647
+  yaw: 254.69876
+  pitch: 30.300003
 money: '2951'
 afk: false
 nickname: §a§lSkillrex

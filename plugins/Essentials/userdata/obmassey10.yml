@@ -1,6 +1,6 @@
 timestamps:
-  login: 1379131769577
-  logout: 1379131773956
+  login: 1379733004156
+  logout: 1379733042476
   lastteleport: 1378008211806
 ipAddress: 75.25.119.155
 geolocation: United States
@@ -14,11 +14,11 @@ lastlocation:
 money: '1175'
 logoutlocation:
   world: revengeofthelords
-  x: -478.88461276768487
-  y: 89.05092980482925
-  z: 707.5767534453225
-  yaw: -191.99788
-  pitch: 42.899952
+  x: -502.69999998807907
+  y: 86.0
+  z: 641.3000000119209
+  yaw: -76.947945
+  pitch: 8.249995
 mail:
 - 'robotronx: ''i will be online 10am saturday'''
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''

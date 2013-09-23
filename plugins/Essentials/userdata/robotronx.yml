@@ -1,24 +1,24 @@
 timestamps:
-  login: 1379433863378
-  lastteleport: 1379262151284
-  logout: 1379433912689
+  login: 1379810013825
+  lastteleport: 1379773942392
+  logout: 1379810034970
   jail: 0
 ipAddress: 98.234.54.166
 lastlocation:
-  world: Herobrines
-  x: -270.3182045527472
-  y: -147.72066458658318
-  z: 257.3859566684212
-  yaw: -247.20044
-  pitch: 84.000015
+  world: tunnelers
+  x: 16.352027756486788
+  y: 249.29373923774634
+  z: 6.751367661341131
+  yaw: -92.997314
+  pitch: -10.049964
 money: '90001046409'
 logoutlocation:
-  world: kingslanding
-  x: 3275.978357869056
-  y: 144.90929139529507
-  z: 13345.38234934908
-  yaw: -84.90029
-  pitch: 29.100004
+  world: tunnelers
+  x: 102.30000001192093
+  y: 234.0
+  z: 16.30000001192093
+  yaw: -166.6509
+  pitch: 22.650053
 afk: false
 geolocation: United States
 nickname: §1§l§nKing_Nick
@@ -32,8 +32,6 @@ homes:
     yaw: -86.87216
     pitch: 9.503522
 godmode: false
-mail:
-- 'robotronx: 7pm, we will be on tonite (Monday August 26)'
 ban:
   reason: '§4Banned:
 

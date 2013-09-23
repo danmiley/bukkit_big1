@@ -1,23 +1,23 @@
 timestamps:
-  login: 1378245325996
-  logout: 1378245719122
-  lastteleport: 1377790773798
-ipAddress: 69.180.140.75
+  login: 1379862965508
+  logout: 1379863059037
+  lastteleport: 1379725261294
+ipAddress: 71.55.131.144
 geolocation: United States
 logoutlocation:
   world: revengeofthelords
-  x: -323.76609953424844
-  y: 71.0
-  z: 428.4618233182664
-  yaw: -103.86719
-  pitch: 21.783537
+  x: -424.7595830848073
+  y: 63.0
+  z: 381.8637415275029
+  yaw: -201.85223
+  pitch: 36.92201
 lastlocation:
   world: revengeofthelords
-  x: -445.80811952310444
-  y: 76.34981154782155
-  z: 400.94540895968055
-  yaw: -320.34155
-  pitch: 22.344229
+  x: -480.91548898794645
+  y: 70.55304894157673
+  z: 547.3231179854058
+  yaw: -55.462402
+  pitch: 16.550516
 afk: false
 mail:
 - 'robotronx: 7pm, we will be on tonite (Monday August 26)'
