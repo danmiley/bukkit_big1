@@ -1,6 +1,6 @@
 timestamps:
-  login: 1379812298900
-  logout: 1379812361538
+  login: 1379974900956
+  logout: 1379974926924
   lastteleport: 1379803197066
   kits:
     tools: 1378430566567
@@ -16,11 +16,11 @@ lastlocation:
   pitch: 43.5374
 logoutlocation:
   world: revengeofthelords
-  x: 153.04924929596046
+  x: 152.25136801461468
   y: 97.379120329296
-  z: 2095.2794992294325
-  yaw: 355.03094
-  pitch: 33.899986
+  z: 2114.77563332726
+  yaw: -20.56917
+  pitch: 33.899956
 mail:
 - 'Server: ''we are all going to enter the game at 12:30pm today (monday)'''
 - 'Server: are all going to enter the game at 12:30pm today (monday)'''

@@ -291,5 +291,7 @@ creatures:
     enable: false
   LeashKnot:
     enable: false
+  RyeDragon:
+    enable: true
   XemDragon:
     enable: true

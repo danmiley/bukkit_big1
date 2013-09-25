@@ -1,6 +1,6 @@
 timestamps:
-  login: 1379884536162
-  logout: 1379884572255
+  login: 1379990233219
+  logout: 1379990354419
   lastteleport: 1379882633604
 ipAddress: 76.218.104.96
 geolocation: United States
@@ -13,9 +13,9 @@ lastlocation:
   pitch: 4.64996
 logoutlocation:
   world: kingslanding
-  x: 3251.851376105774
-  y: 149.16555212721738
-  z: 13348.405606567236
-  yaw: -76.35034
-  pitch: 22.199999
+  x: 3210.6616353773034
+  y: 90.12288250681362
+  z: 13214.164171518032
+  yaw: -8.249847
+  pitch: 13.950008
 money: '1166'

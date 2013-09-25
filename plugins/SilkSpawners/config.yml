@@ -9,6 +9,9 @@ usePermissions: false
 # Should be checked for WorldGuard build ability to change spawners
 useWorldGuard: true
  
+# Percentage of dropping a spawner block when TNT or creepers explode
+explosionDropChance: 30
+ 
 # When generic spawner items are placed, spawn this creature (e.g. from /give or other plugins)
 # PIG (90) is Minecraft default (put NAMES or IDs here!)
 defaultCreature: 90
@@ -83,9 +86,6 @@ spawnEggOverride: false
 # Fallback if the creature should be spawned, if not specified for the entity
 spawnEggOverrideSpawnDefault: true
  
-# If the player uses SpoutCraft and Spout is present, he will receive additional information
-useSpout: true
- 
 # Notify the player about the spawner when he clicks it in the inventory
 notifyOnClick: true
  
@@ -98,4 +98,5 @@ verboseConfig: false
 # Internal stuff, do NOT change unless advised - the plugin might break otherwise
 useReflection: true
 useErrorLogger: true
+useSpout: true
 testMCVersion: true

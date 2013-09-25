@@ -1,7 +1,7 @@
 geolocation: United States
 timestamps:
-  login: 1378556354389
-  logout: 1378556767241
+  login: 1380028645418
+  logout: 1380028719419
 ipAddress: 69.180.140.75
 lastlocation:
   world: revengeofthelords
@@ -11,9 +11,9 @@ lastlocation:
   yaw: -147.72546
   pitch: -3.8192213
 logoutlocation:
-  world: revengeofthelords
-  x: -514.7773207703302
-  y: 64.0
-  z: 643.8226300123908
-  yaw: 44.330616
-  pitch: 4.7804375
+  world: revengeofthelords_the_end
+  x: 102.4058008313859
+  y: 49.0
+  z: 2.678243418143781
+  yaw: 244.87497
+  pitch: 90.0
